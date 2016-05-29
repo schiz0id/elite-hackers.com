@@ -1,0 +1,18 @@
+{
+  "name": "The Elite Hackers Site",
+  "authors": [
+    "schiz0id <schiz0id@elite-hackers.com>"
+  ],
+  "description": "The best hacking site on the internet",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "http://www.elite-hackers.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
