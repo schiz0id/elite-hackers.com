@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
   a hacker and learn how to hack servers, firewalls, web sites, email accounts, 
   facebook, twitter, and more!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://elite-hackers.com" # the base hostname & protocol for your site
 twitter_username: schiz0id
 github_username:  schiz0id
 
