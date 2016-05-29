@@ -19,3 +19,14 @@ github_username:  schiz0id
 
 # Build settings
 markdown: kramdown
+
+collections:
+  tutorials:
+    output: true
+    permalink: /tutorials/:slug/
+  books:
+    output: true
+    permalink: /resources/books/:slug/
+  wallpapers:
+    output: true
+    permalink: /downloads/wallpapers/:slug/
