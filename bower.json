@@ -5,7 +5,7 @@
   ],
   "description": "The best hacking site on the internet",
   "main": "index.html",
-  "license": "MIT",
+  "license": "",
   "homepage": "http://www.elite-hackers.com",
   "private": true,
   "ignore": [
