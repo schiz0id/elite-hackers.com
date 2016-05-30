@@ -1,12 +1,12 @@
 <header>
   <nav class="pure-menu pure-menu-horizontal">
-    <a href="{{ site.baseurl }}" class="pure-menu-heading pure-menu-link">{{ site.title }}</a>
+    <a href="/" class="pure-menu-heading pure-menu-link">{{ site.title }}</a>
 
     <ul class="pure-menu-list">
     {% for my_page in site.pages %}
-      {% if my_page.title %}
-        <li class="pure-menu-item"><a class="pure-menu-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
-      {% endif %}
+    {% if my_page.title %}
+      <li class="pure-menu-item"><a class="pure-menu-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
+    {% endif %}
     {% endfor %}
     </ul>
   </nav>
