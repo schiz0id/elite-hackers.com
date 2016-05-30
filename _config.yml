@@ -28,5 +28,5 @@ collections:
     output: true
     permalink: /resources/books/:slug/
   wallpapers:
-    output: true
+    output: false
     permalink: /downloads/wallpapers/:slug/

@@ -1,0 +1,10 @@
+---
+layout: default
+---
+<div class="pure-g">
+{% for wallpaper in site.wallpapers %}
+  <div class="pure-u-1-1 pure-u-sm-1-1 pure-u-md-1-2 pure-u-lg-1-3 pure-u-xl-1-4">
+    <a href="http://i.imgur.com/{{ wallpaper.imgur }}.jpg"><img class="pure-img" src="http://i.imgur.com/{{ wallpaper.imgur }}t.jpg"><br>{{ wallpaper.title }}</a>
+  </div>
+{% endfor %}
+</div>
