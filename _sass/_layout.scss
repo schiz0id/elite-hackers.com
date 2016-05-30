@@ -9,9 +9,10 @@ body,
 .pure-g [class *= "pure-u"],
 .pure-g-r [class *= "pure-u"] {
   /* Add your font in here, whether it's a custom font or a normal font */
-  font-family: 'Lekton', serif;
-  color: #07C102;
-  line-height: 1.3;
+  font-family: $standard-text-font;
+  color: $standard-text-color;
+  line-height: $standard-text-line-height;
+  font-size: $font-size-md;
 }
 
 .container {
@@ -24,12 +25,12 @@ header.site-header, footer.site-footer {
 }
 
 footer.site-footer {
-  font-size: 80%;
+  font-size: $font-size-xs;
 }
 
-h1, h2, h3 {
-  font-family: 'audimat_monolight';
-  font-weight: 100;
-  color: #01D202;
+h1, h2, h3, h4, h5, h6 {
+  font-family: $header-font;
+  font-weight: $header-font-weight;
+  color: $header-font-color;
   text-transform: uppercase;
 }

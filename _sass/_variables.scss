@@ -1,2 +1,22 @@
+//Standard padding used between elements throughout the layout
 $default-padding: 20px;
 
+//Font sizes
+$font-size-base: 1em;
+
+$font-size-xs: 80%;
+$font-size-sm: 90%;
+$font-size-md: $font-size-base;
+$font-size-lg: 120%;
+$font-size-xl: 150%;
+
+//Headers
+$header-font: 'audimat_monolight';
+$header-font-weight: 100;
+$header-font-color: #01D202;
+
+//Standard body text
+$standard-text-font: 'Lekton', serif;
+$standard-text-color: #07C102;
+$standard-text-line-height: 1.3;
+$standard-font-size: 16px;
