@@ -1,0 +1,116 @@
+@font-face {
+    font-family: 'audimat_monooblique';
+    src: url('audimo__-webfont.eot');
+    src: url('audimo__-webfont.eot?#iefix') format('embedded-opentype'),
+         url('audimo__-webfont.woff2') format('woff2'),
+         url('audimo__-webfont.woff') format('woff'),
+         url('audimo__-webfont.ttf') format('truetype'),
+         url('audimo__-webfont.svg#audimat_monooblique') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'audimat_monosmallcapslight';
+    src: url('audimscl-webfont.eot');
+    src: url('audimscl-webfont.eot?#iefix') format('embedded-opentype'),
+         url('audimscl-webfont.woff2') format('woff2'),
+         url('audimscl-webfont.woff') format('woff'),
+         url('audimscl-webfont.ttf') format('truetype'),
+         url('audimscl-webfont.svg#audimat_monosmallcapslight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'audimat_monosmallcapsbold';
+    src: url('audimscb-webfont.eot');
+    src: url('audimscb-webfont.eot?#iefix') format('embedded-opentype'),
+         url('audimscb-webfont.woff2') format('woff2'),
+         url('audimscb-webfont.woff') format('woff'),
+         url('audimscb-webfont.ttf') format('truetype'),
+         url('audimscb-webfont.svg#audimat_monosmallcapsbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'audimat_monoregular';
+    src: url('audimrg_-webfont.eot');
+    src: url('audimrg_-webfont.eot?#iefix') format('embedded-opentype'),
+         url('audimrg_-webfont.woff2') format('woff2'),
+         url('audimrg_-webfont.woff') format('woff'),
+         url('audimrg_-webfont.ttf') format('truetype'),
+         url('audimrg_-webfont.svg#audimat_monoregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'audimat_monosmallcaps';
+    src: url('audimsc_-webfont.eot');
+    src: url('audimsc_-webfont.eot?#iefix') format('embedded-opentype'),
+         url('audimsc_-webfont.woff2') format('woff2'),
+         url('audimsc_-webfont.woff') format('woff'),
+         url('audimsc_-webfont.ttf') format('truetype'),
+         url('audimsc_-webfont.svg#audimat_monosmallcaps') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'audimat_monolightoblique';
+    src: url('audimlo_-webfont.eot');
+    src: url('audimlo_-webfont.eot?#iefix') format('embedded-opentype'),
+         url('audimlo_-webfont.woff2') format('woff2'),
+         url('audimlo_-webfont.woff') format('woff'),
+         url('audimlo_-webfont.ttf') format('truetype'),
+         url('audimlo_-webfont.svg#audimat_monolightoblique') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'audimat_monolight';
+    src: url('audiml__-webfont.eot');
+    src: url('audiml__-webfont.eot?#iefix') format('embedded-opentype'),
+         url('audiml__-webfont.woff2') format('woff2'),
+         url('audiml__-webfont.woff') format('woff'),
+         url('audiml__-webfont.ttf') format('truetype'),
+         url('audiml__-webfont.svg#audimat_monolight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'audimat_monoboldoblique';
+    src: url('audimbo_-webfont.eot');
+    src: url('audimbo_-webfont.eot?#iefix') format('embedded-opentype'),
+         url('audimbo_-webfont.woff2') format('woff2'),
+         url('audimbo_-webfont.woff') format('woff'),
+         url('audimbo_-webfont.ttf') format('truetype'),
+         url('audimbo_-webfont.svg#audimat_monoboldoblique') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'audimat_monobold';
+    src: url('audimb__-webfont.eot');
+    src: url('audimb__-webfont.eot?#iefix') format('embedded-opentype'),
+         url('audimb__-webfont.woff2') format('woff2'),
+         url('audimb__-webfont.woff') format('woff'),
+         url('audimb__-webfont.ttf') format('truetype'),
+         url('audimb__-webfont.svg#audimat_monobold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
