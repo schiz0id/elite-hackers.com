@@ -1,0 +1,31 @@
+.lead {
+  background-color: rgba(0, 200, 0, .1);
+  width: 100%;
+  border-top: 1px solid #040;
+  border-bottom: 1px solid #040;
+  padding: $default-padding 0;
+  h1 {
+    padding: 0;
+    margin: 0 0 $default-padding 0;
+  }
+}
+.welcome p {
+  margin: 0;
+}
+.book {
+  padding-left: $default-padding;  
+}
+.cta {
+  padding: 0 $default-padding;
+  .pure-button {
+    width: 100%;
+    text-align: center;
+  }
+}
+
+.pure-button {
+  color: #000;
+  background-color: #0C0;
+  border-radius: 0;
+  font-size: 90%;
+}

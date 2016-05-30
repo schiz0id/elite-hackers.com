@@ -1,0 +1,35 @@
+body {
+  background-image: url('/img/bg.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+/* Global font, text color, and formatting */
+body,
+.pure-g [class *= "pure-u"],
+.pure-g-r [class *= "pure-u"] {
+  /* Add your font in here, whether it's a custom font or a normal font */
+  font-family: 'Lekton', serif;
+  color: #07C102;
+  line-height: 1.3;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+header.site-header, footer.site-footer {
+  padding: $default-padding 0;
+}
+
+footer.site-footer {
+  font-size: 80%;
+}
+
+h1, h2, h3 {
+  font-family: 'audimat_monolight';
+  font-weight: 100;
+  color: #01D202;
+  text-transform: uppercase;
+}
