@@ -1,13 +1,25 @@
 header.site-header {
-  .pure-menu-heading {
-    font-family: $header-font;
-    color: #FFF;
-    font-size: $font-size-lg;
-    letter-spacing: 2px;
-    color: $header-text-color;
+  .nav-header {
+    float: left;
+    img {
+      vertical-align: middle;
+      margin-right: $default-padding;
+    }
   }
-  .pure-menu-heading {
-    background: none;
+  .pure-menu {
+    text-align: right;
+  }
+
+  a.brand {
+    font-family: $header-font;
+    font-size: $font-size-xl;
+    color: $header-text-color;
+    letter-spacing: 2px;
+    text-decoration: none;
+    text-transform: uppercase;
+    span {
+      //text-shadow: 0px 0px 3px #CFC;
+    }
   }
   a {
     color: $green2;

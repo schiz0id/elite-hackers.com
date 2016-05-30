@@ -1,8 +1,9 @@
 <header class="site-header container">
-  <nav class="pure-menu pure-menu-horizontal">
-    <img src="/img/rotateskull.gif">
-    <a href="/" class="pure-menu-heading pure-menu-link">{{ site.title }}</a>
+  <div class="nav-header">
+    <a href="/" class="brand"><img src="/img/rotateskull.gif"><span>{{ site.title }}</span></a>
+  </div>
 
+  <nav class="pure-menu pure-menu-horizontal">
     <ul class="pure-menu-list">
     {% for my_page in site.pages %}
     {% if my_page.title %}
