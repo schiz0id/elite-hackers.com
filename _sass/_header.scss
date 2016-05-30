@@ -1,11 +1,20 @@
 header.site-header {
-  a:hover {
-    background: none;
-  }
   .pure-menu-heading {
+    font-family: $header-font;
     color: #FFF;
     font-size: $font-size-lg;
     letter-spacing: 2px;
     color: $header-text-color;
+  }
+  .pure-menu-heading {
+    background: none;
+  }
+  a {
+    color: $green2;
+    font-size: $font-size-sm;
+  }
+  a:hover {
+    background: none;
+    color: $green1;
   }
 }
