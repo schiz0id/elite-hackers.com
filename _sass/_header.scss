@@ -1,0 +1,11 @@
+header.site-header {
+  a:hover {
+    background: none;
+  }
+  .pure-menu-heading {
+    color: #FFF;
+    font-size: $font-size-lg;
+    letter-spacing: 2px;
+    color: $header-text-color;
+  }
+}
