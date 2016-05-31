@@ -1,7 +1,21 @@
+
+//@media(max-width: 1024px) {
+@media(min-width: 768px) {
+  body {
+    background-image: url('/img/bg/1024x768.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+}
+
+@media(min-width: 1025px) {
+  body {
+    background-image: url('/img/bg/1920x1400.jpg');
+  }
+}
+
 body {
-  background-image: url('/img/bg.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
+  background-color: #000;
 }
 
 /* Global font, text color, and formatting */
