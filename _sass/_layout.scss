@@ -52,9 +52,20 @@ footer.site-footer {
   font-size: $font-size-xs;
 }
 
+//Headings
 h1, h2, h3, h4, h5, h6 {
   font-family: $header-font;
   font-weight: $header-font-weight;
   color: $header-text-color;
   text-transform: uppercase;
+}
+
+//Lists
+ul {
+  list-style-type: square;
+  list-style-position: inside;
+  padding: 0;
+  li {
+    margin-bottom: 15px;
+  }
 }
