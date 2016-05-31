@@ -24,6 +24,16 @@ header.site-header, footer.site-footer {
   padding: $default-padding 0;
 }
 
+@media(max-width: 1024px) {
+  //Mobile padding
+  header.site-header,
+  footer.site-footer,
+  .container {
+    padding: $default-padding;
+  }
+}
+
+
 footer.site-footer {
   font-size: $font-size-xs;
 }
