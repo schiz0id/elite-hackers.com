@@ -1,0 +1,47 @@
+//Breakpoints from Pure CSS
+$bk-sm: 35.5em;
+$bk-md: 48em;
+$bk-lg: 64em;
+$bk-xl: 80em;
+
+
+//Phones
+//<768px
+@mixin ph {
+  @include max-screen($bk-sm) {
+    @content
+  }
+}
+
+//Small
+//>= 768px
+//Ipad portrait
+@mixin sm {
+  @include min-screen($bk-sm) {
+    @content
+  }
+}
+
+//Medium
+@mixin md {
+  @include screen($bk-sm, $bk-md) {
+    @content
+  }
+}
+
+//Large
+//>= 1024px
+//Ipad landscape
+@mixin lg {
+  @include screen($bk-lg, $bk-xl) {
+    @content
+  }
+}
+
+//Extra large
+//>= 1280px
+@mixin xl {
+  @include min-screen($bk-xl) {
+    @content
+  }
+}
