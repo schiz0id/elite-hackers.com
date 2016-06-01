@@ -7,6 +7,7 @@
 
 # Site settings
 title: The Elite Hackers Site
+title-header: Elite Hackers Site
 email: schiz0id@elite-hackers.com
 description: > # this means to ignore newlines until "baseurl:"
   The best hacking site on the internet. Come here to find out how to become
