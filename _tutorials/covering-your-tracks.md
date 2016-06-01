@@ -19,15 +19,26 @@ For a hacker, internet cookies can be very dangerous if they don't know what the
 
 Deleting your cookies is easy, and how you do it varies on which version of Internet Explorer you're using. Since Microsoft is constantly improving Internet Explorer, I'm not going to cover it here. Instead, here are links to the instructions for each version:
 
+* USE HTTPS
 * <a target="_blank" title="Deleting your cookies/history in Internet Explorer 6" href="#">Deleting your cookies/history in Internet Explorer 6</a>
 * <a target="_blank" title="Deleting your cookies/history in Internet Explorer 7" href="#">Deleting your cookies/history in Internet Explorer 7</a>
 * <a target="_blank" title="Deleting your cookies/history in Internet Explorer 8" href="#">Deleting your cookies/history in Internet Explorer 8</a>
 
 ## InPrivate Browsing for Hacking Sessions ##
 
-It's not always a good idea to have *all* of your history cleared. If the F.B.I. seizes your computer and doesn't see any history, it will look suspicious.
+It's not always a good idea to have *all* of your history cleared. If the F.B.I. seizes your computer and doesn't see any history, it will look suspicious. If you have the latest version of Internet Explorer, you can open a new window that doesn't leave any cookies.
 
-http://windows.microsoft.com/en-us/internet-explorer/products/ie-9/features/in-private
+
+Once you're done hacking, all you have to do is close the window and any evidence will be gone without a trace. This is what is known as InPrivate browsing, and many hackers have used it to avoid being caught. I always use InPrivate Browsing when I'm hacking at school.
+
+Microsoft takes security very seriously, which is why I use them. You can <a target="_blank" title="Untracable hacking with Microsoft Internet Explorer" href="https://windows.microsoft.com/en-us/internet-explorer/products/ie-9/features/in-private">read more about InPrivate browsing</a> on their web site and how to use it.
+
+
+
+
+## HTTPS ##
+
+**Hidden Text Transmission Protocol Security** (or HTTPS for short) is a transmission method that Internet Explorer uses to encrypt the website address you're visiting. If the F.B.I. is <a href="#ping?">using something like ping</a> and gets your IP address, then they can track the web sites you're visiting **in real time**.
 
 ## Other Tips ##
 
