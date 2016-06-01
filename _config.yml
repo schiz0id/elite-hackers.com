@@ -20,6 +20,8 @@ github_username:  schiz0id
 
 excerpt_separator: <!--more-->
 
+amazon_tracking_id: "theelihacsit-20"
+
 # Build settings
 markdown: kramdown
 
