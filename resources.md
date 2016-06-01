@@ -10,22 +10,22 @@ summary: Malesuada suspendisse primis sociis tristique molestie per condimentum 
 Eleifend a dis pulvinar dignissim consectetur pulvinar dapibus vestibulum ullamcorper lacus tellus a ut ridiculus feugiat conubia fusce dui.
 A nisi ornare sed magnis praesent urna ut scelerisque nulla sem adipiscing molestie montes mi tellus placerat suspendisse urna et hendrerit nec.
 
-[View hacking books](/books "View hacking books")
+<a class="pure-button" title="Hacking books" href="/books">View hacking books <i class="fa fa-caret-right"></i></a>
 
-## [Hacking Links](/resources/links "Hacking Links") ##
+## [Hacking Links](/links "Hacking Links") ##
 Velit ullamcorper condimentum parturient a condimentum mi feugiat justo libero suspendisse id aliquam sociosqu vestibulum vestibulum ut inceptos id mi a lectus primis parturient suspendisse amet parturient amet felis.
 Dictumst felis mi fusce ipsum metus habitant condimentum a mi molestie mi malesuada eu ante vestibulum egestas id penatibus consectetur eros condimentum in a luctus.
 
-[View hacking links](/resources/links "View hacking links")
+<a class="pure-button" title="Hacking links" href="/links">View hacking links <i class="fa fa-caret-right"></i></a>
 
-## [Hacking Text Files](/resources/text-files "Hacking Text Files") ##
+## [Hacking Text Files](/text-files "Hacking Text Files") ##
 Nibh ac sodales iaculis nisl id dictumst parturient convallis neque at consequat per pharetra magnis adipiscing.
 Ac parturient hac mauris ullamcorper dapibus adipiscing euismod donec ultricies aliquet luctus ad netus ridiculus posuere vestibulum vestibulum id a placerat.
 
-[View hacking text files](/resources/text-files "View hacking text files")
+<a class="pure-button" title="View hacking text files" href="/text-files">View hacking text files <i class="fa fa-caret-right"></i></a>
 
-## [Hacker's Dictionary](/resources/dictionary "Hacker's Dictionary") ##
+## [Hacker's Dictionary](/dictionary "Hacker's Dictionary") ##
 Ullamcorper at dictum ut conubia felis sed dictumst cursus adipiscing lacus adipiscing ligula ullamcorper nec imperdiet.
 Inceptos cubilia ullamcorper ac a ac suscipit justo maecenas suspendisse parturient etiam hac morbi placerat mauris tellus per eget erat lobortis a.
 
-[View hacker's dictionary](/resources/dictionary "View hacker's dictionary")
+<a class="pure-button" title="View hacker's dictionary" href="/dictionary">View hacker's dictionary<i class="fa fa-caret-right"></i></a>
