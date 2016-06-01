@@ -171,7 +171,7 @@ Having a nice desktop is only one step of the process. The rest is choosing the 
 
 ## Conclusion
 
-Go ahead and mess around with some of those tools and Windows mods. After you have a good looking desktop with the basic necesseties, familiarize yourself with them. Mastering programs like Notepad and Telnet are vital to a hacker's every day process. After you are comfortable, go ahead and check out some more [advanced hacking methods](/article/advanced-hacking-methods).
+Go ahead and mess around with some of those tools and Windows mods. After you have a good looking desktop with the basic necesseties, familiarize yourself with them. Mastering programs like Notepad and Telnet are vital to a hacker's every day process. After you are comfortable, go ahead and check out some more [advanced hacking methods][tutorial-advanced]
 
 [desktop-default-sm]: http://i.imgur.com/zeWxB11l.png "Default Windows XP desktop"
 [desktop-default]: http://i.imgur.com/zeWxB11.png "Default Windows XP desktop"
@@ -181,3 +181,5 @@ Go ahead and mess around with some of those tools and Windows mods. After you ha
 
 [desktop-elite]: http://i.imgur.com/fTrVJpV.jpg "Elite Windows XP desktop"
 [desktop-elite-sm]: http://i.imgur.com/fTrVJpVl.jpg "Elite Windows XP desktop"
+
+[tutorial-advanced]: /tutorials/advanced-hacking-methods "Advanced hacking methods"
