@@ -2,7 +2,7 @@
 layout: page
 weight: 2
 title: Hacking Tools
-permalink: /hacking-tools/
+permalink: /tools/
 summary: A skilled hacker always keeps a wide variety of tools so he can complete any task. Here you will find all the tools you will need to get the job done.
 ---
 <h2>Keyloggers</h2>
