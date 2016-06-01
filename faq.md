@@ -1,9 +1,8 @@
 ---
 layout: page
-weight: 5
 title: Frequently Asked Questions
-menu-title: FAQ
 permalink: /faq/
+hide-nav: true
 summary: I constantly get e-mails from people with a ton of good questions. This page contains the questions I get asked the most.
 ---
 ### Can you hack into my school and change my grades for me? ### 
