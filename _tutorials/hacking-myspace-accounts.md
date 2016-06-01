@@ -5,10 +5,6 @@ summary: This is a special tutorial that I wrote for those of you out there look
 weight: 3
 published: 1
 ---
-# Hacking MySpace Accounts
-
-This is a special tutorial that I wrote for those of you out there looking to hack into someone's MySpace account and ruin their e-life.
-
 ## Introduction
 
 It would be impossible to tell you how many times I have had visitors e-mail me asking how to hack into someone else's MySpace account. For a hacker who is just beginning, this could be a daunting task. Along with that, there's always the possibility of getting caught and serving time. Unless you really know what you're doing, targeting something as big as MySpace is suicide. I've hacked many MySpace accounts using various methods, one of which I will cover in this tutorial.
