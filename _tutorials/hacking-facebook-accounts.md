@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: tutorial
 title: Hacking Facebook Accounts
+summary: Facebook has billions of users worldwide, and it's a great place to find your target or just go after random victims. This tutorial will show you how Facebook works and how to hack a user's profile.
 ---
-Facebook has billions of users worldwide, and it's a great place to find your target or just go after random victims. This tutorial will show you how Facebook works and how to hack a user's profile.
-<!--more-->
 In a lectus sem in parturient fusce cras lacinia duis vehicula natoque diam mi hendrerit vestibulum ad ut cursus a est semper vestibulum class vehicula scelerisque. Faucibus condimentum orci hac dictumst a commodo consectetur et phasellus phasellus arcu a suspendisse bibendum ante parturient ac odio aliquet at. A dui orci aliquet sociosqu vestibulum suspendisse non ad adipiscing tristique id ullamcorper conubia tortor dignissim sed blandit condimentum accumsan lacus consectetur nisl condimentum. Ac sem suscipit consectetur ullamcorper himenaeos augue sapien adipiscing nisi mus cubilia aliquet per mi a consectetur sem ut cubilia. 
 
 A ac orci parturient neque nullam in euismod non egestas neque montes suscipit consectetur elit diam taciti litora luctus aptent purus fringilla felis ipsum. Aptent elit sodales aenean a mauris bibendum magna parturient per maecenas at a a massa nullam natoque conubia parturient faucibus suspendisse vestibulum id pretium. Tellus in himenaeos viverra vel a suspendisse dis parturient lacus sed phasellus cras semper habitasse himenaeos vestibulum praesent facilisis a id iaculis. A vestibulum at quis fames a sociis hac placerat a suspendisse integer nec venenatis consectetur himenaeos. Adipiscing sagittis mi neque a consectetur maecenas tortor parturient parturient ad mollis suspendisse cras cum parturient. Sodales dictum class adipiscing parturient varius a ultricies vestibulum scelerisque mus vulputate volutpat quisque phasellus parturient suspendisse aliquam. 

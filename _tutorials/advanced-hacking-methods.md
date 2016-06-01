@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: tutorial
 title: Advanced Hacking Methods
+summary: This article covers advanced topics such as IP addresses, firewalls, and remote networks, along with how they can be hacked by using hacking tools like ping and telnet.
 ---
-This article covers advanced topics such as IP addresses, firewalls, and remote networks, along with how they can be hacked by using hacking tools like ping and telnet.
-<!--more-->
 # Advanced Hacking Methods
 
 This article will teach you advanced hacking methods and and how to use some of the best hacking tools. This article isn't for noobs. This section is meant for those who have already selected a handle and completed modding out their hacker desktop. If you have not already completed these tasks, I highly recommend that you learn how to do so [here](http://elite-hackers.com/articles/getting-started).

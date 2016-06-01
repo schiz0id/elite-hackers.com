@@ -8,7 +8,7 @@ summary: These tutorials are the best place to start. It almost took me two year
   {% for tutorial in site.tutorials %}
     <div class="pure-u-1 pure-u-sm-1-1 pure-u-md-1-2 pure-u-lg-1-3 pure-u-xl-1-4">
       <h2><a href="{{ tutorial.url }}">{{ tutorial.title }}</a></h2>
-      {{ tutorial.excerpt }}
+      {{ tutorial.summary }}
     </div>
   {% endfor %}
 </div>
