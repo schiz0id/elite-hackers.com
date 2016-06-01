@@ -9,12 +9,21 @@
     margin: 0 0 $default-padding 0;
   }
 }
+
 .welcome p {
   margin: 0;
 }
+
 .book {
   padding-left: $default-padding;  
+  .book-info {
+    padding: 0 $default-padding;
+    h3 {
+      margin: 0 0 $default-padding 0;
+    }
+  }
 }
+
 .cta {
   padding: 0 $default-padding;
   .pure-button {
