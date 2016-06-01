@@ -17,6 +17,8 @@ url: "http://elite-hackers.com" # the base hostname & protocol for your site
 twitter_username: schiz0id
 github_username:  schiz0id
 
+excerpt_separator: <!--more-->
+
 # Build settings
 markdown: kramdown
 
