@@ -21,7 +21,7 @@ Dictumst felis mi fusce ipsum metus habitant condimentum a mi molestie mi malesu
 Nibh ac sodales iaculis nisl id dictumst parturient convallis neque at consequat per pharetra magnis adipiscing.
 Ac parturient hac mauris ullamcorper dapibus adipiscing euismod donec ultricies aliquet luctus ad netus ridiculus posuere vestibulum vestibulum id a placerat.
 
-[View hacking text files](/resources/text-files "View hacking text files"
+[View hacking text files](/resources/text-files "View hacking text files")
 
 ## [Hacker's Dictionary](/resources/dictionary "Hacker's Dictionary") ##
 Ullamcorper at dictum ut conubia felis sed dictumst cursus adipiscing lacus adipiscing ligula ullamcorper nec imperdiet.
