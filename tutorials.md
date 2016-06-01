@@ -1,5 +1,6 @@
 ---
 layout: page
+weight: 1
 title: Hacking Tutorials
 menu-title: Tutorials
 permalink: /tutorials/

@@ -1,5 +1,6 @@
 ---
 layout: page
+weight: 3
 title: Hacking Resources
 menu-title: Resources
 permalink: /resources/

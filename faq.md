@@ -1,5 +1,6 @@
 ---
 layout: page
+weight: 5
 title: Frequently Asked Questions
 menu-title: FAQ
 permalink: /faq/
