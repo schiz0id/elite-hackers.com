@@ -3,3 +3,4 @@ _site
 .jekyll-metadata
 config.codekit
 bower_components
+.vagrant
