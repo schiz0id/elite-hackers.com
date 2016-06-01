@@ -9,9 +9,9 @@
     {% for page in pages %}
       {% if page.hide-nav != true %}
         {% if page.menu-title %}
-          <li class="pure-menu-item"><a class="pure-menu-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.menu-title }}</a></li>
+          <li class="pure-menu-item"><a class="pure-menu-link" title="{{ page.title }}" href="{{ page.url | prepend: site.baseurl }}">{{ page.menu-title }}</a></li>
         {% elsif page.title %}
-          <li class="pure-menu-item"><a class="pure-menu-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+          <li class="pure-menu-item"><a class="pure-menu-link" title="{{ page.title }}" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
         {% endif %}
       {% endif %}
     {% endfor %}
