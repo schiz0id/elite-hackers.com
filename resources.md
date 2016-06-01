@@ -6,11 +6,11 @@ menu-title: Resources
 permalink: /resources/
 summary: Malesuada suspendisse primis sociis tristique molestie per condimentum ullamcorper eget dictumst aliquet a odio rhoncus tellus duis nisl conubia dis orci mauris vestibulum. A imperdiet dignissim fames parturient mi in scelerisque purus ad imperdiet a et rhoncus scelerisque a facilisi quis integer fames gravida.
 ---
-## [Hacking Books](/resources/books "Hacking Books") ##
+## [Hacking Books](/books "Hacking Books") ##
 Eleifend a dis pulvinar dignissim consectetur pulvinar dapibus vestibulum ullamcorper lacus tellus a ut ridiculus feugiat conubia fusce dui.
 A nisi ornare sed magnis praesent urna ut scelerisque nulla sem adipiscing molestie montes mi tellus placerat suspendisse urna et hendrerit nec.
 
-[View hacking books](/resources/books "View hacking books")
+[View hacking books](/books "View hacking books")
 
 ## [Hacking Links](/resources/links "Hacking Links") ##
 Velit ullamcorper condimentum parturient a condimentum mi feugiat justo libero suspendisse id aliquam sociosqu vestibulum vestibulum ut inceptos id mi a lectus primis parturient suspendisse amet parturient amet felis.
