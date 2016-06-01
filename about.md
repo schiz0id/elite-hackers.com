@@ -2,10 +2,8 @@
 layout: page
 title: About
 permalink: /about/
+summary: I was a newbie once, too. It's not easy. With my years of hacking experience, I simply wanted to create a friendly resource which would allow intermediate programmers (ones who know HTML) to learn how to hack. Years of work and research are compiled into this one resource, and I'm proud of that.
 ---
-
-I was a newbie once, too. It's not easy. With my years of hacking experience, I simply wanted to create a friendly resource which would allow intermediate programmers (ones who know HTML) to learn how to hack. Years of work and research are compiled into this one resource, and I'm proud of that.
-
 ## The Making ##
 I wrote this page entirely in Windows Notepad, none of that uber-lame, pretty Frontpage crap. Everything you see here is raw-coded HTML written in the best editor. The images, however, were made in Adobe Photoshop 7.0.
 

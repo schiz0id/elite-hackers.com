@@ -2,9 +2,8 @@
 layout: page
 title: Hacking Tools
 permalink: /hacking-tools/
+summary: A skilled hacker always keeps a wide variety of tools so he can complete any task. Here you will find all the tools you will need to get the job done.
 ---
-
-<p>A skilled hacker always keeps a wide variety of tools so he can complete any task. Here you will find all the tools you will need to get the job done.</p>
 <h2>Keyloggers</h2>
 <p>Unlike most hacking tools, keyloggers are hardware that you buy. With access to the target computer, you can plug this into the port being used by the keyboard and it records whatever your victim types! The best thing about keyloggers is that they are&nbsp;<strong>untraceable!</strong></p>
 <p><em>List out the keyloggers here.</em></p>
