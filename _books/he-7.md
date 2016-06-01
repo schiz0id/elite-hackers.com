@@ -5,4 +5,5 @@ description: "If you haven't read a hacking book, you should start here. This is
 weight: 1
 imgur: http://i.imgur.com/EfrG7DK.jpg
 imgur-sm: http://i.imgur.com/EfrG7DKt.jpg
+asin: 0071780289
 ---

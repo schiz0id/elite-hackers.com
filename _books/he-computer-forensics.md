@@ -4,4 +4,5 @@ title:  "Hacking Exposed Computer Forensics, Second Edition: Computer Forensics 
 description: "If you ever wanted to learn how to recover data someone is trying to hide, you should read this book. It covers how to retrieve deleted data from hard drives, view your victim's internet history to see where they have been online, and unencrypt passwords that have been hidden with asterisk stars (encrypted passwords that look like this: *****)."
 imgur: http://i.imgur.com/ZwZQ1Dq.jpg
 imgur-sm: http://i.imgur.com/ZwZQ1Dqt.jpg
+asin: 0071626778
 ---
