@@ -13,7 +13,7 @@ This is a special tutorial that I wrote for those of you out there looking to ha
 
 It would be impossible to tell you how many times I have had visitors e-mail me asking how to hack into someone else's MySpace account. For a hacker who is just beginning, this could be a daunting task. Along with that, there's always the possibility of getting caught and serving time. Unless you really know what you're doing, targeting something as big as MySpace is suicide. I've hacked many MySpace accounts using various methods, one of which I will cover in this tutorial.
 
-Before reading any further, you should have mastered the techniques that I covered in the [Getting Started](http://elite-hackers.com/starting) section. Along with that, you should have a clear understanding of all of the [Hacking Tools](http://elite-hackers.com/tools). Without the basics, this tutorial is useless, and you will also run a higher risk of being caught.
+Before reading any further, you should have mastered the techniques that I covered in the [Getting Started][tutorial-getting-started] section. Along with that, you should have a clear understanding of all of the [Advanced Hacking Methods][tutorial-advanced]. Without the basics, this tutorial is useless, and you will also run a higher risk of being caught.
 
 After you have read and completely understand those two sections, let's go ahead and do some homework. The next section covers some basic information about MySpace itself.
 
@@ -62,7 +62,7 @@ Now you can see the potential in having control of their account: you can ruin t
 
 ## Hacking into a MySpace account
 
-This tutorial is a little more difficult than anything else I have on this site. So before you continue, make sure you've read the [Getting Started](http://elite-hackers.com/starting) section and the [Hacking Tools](http://elite-hackers.com/tools) section.
+This tutorial is a little more difficult than anything else I have on this site. So before you continue, make sure you've read the [Getting Started][tutorial-getting-started] section and the [Advanced Hacking Methods][tutorial-advanced] section.
 
 I will start you off with what you're going to need.
 
@@ -86,7 +86,7 @@ Make sure that when you create an account, you give them a fake e-mail address a
 
 These are the only two things you are going to need for the password cracking tool. Luckily for you, the friend ID and MyToken string are easy to find. Once you log into your new MySpace account, search for the person whose MySpace account you want to hack into. Once you find them, go to their profile. What you need is going to be in the URL. To make it easy for you, I've taken a screenshot that shows you what you should be looking for:
 
-![A MySpace profile that is about to be hacked](/sites/default/files/styles/large/public/article/field/image/myspace-hacking.jpg?itok=WBGPCSmx)
+[![A MySpace profile that is about to be hacked][myspace-sm]][myspace]
 
 If you didn't notice, on the top right section of that screenshot, I highlighted both the friend ID and the 754-bit encrypted MyToken string. You should see this in the URL of every MySpace profile you want to hack.
 
@@ -99,3 +99,9 @@ Now that you have the friend ID and the 754-bit encrypted MyToken string, it's t
 ## Download
 
 [Download the MySpace Password Cracking Tool](http://elite-hackers.com/files/myspace_hacking_tool.exe)
+
+[myspace-sm]: http://i.imgur.com/ct2hOZsl.jpg "A MySpace profile that is about to be hacked"
+[myspace]: http://i.imgur.com/ct2hOZs.jpg
+
+[tutorial-getting-started]: /tutorials/getting-started "Getting Started tutorial"
+[tutorial-advanced]: /tutorials/advanced-hacking-methods "Advanced Hacking Methods tutorial"
