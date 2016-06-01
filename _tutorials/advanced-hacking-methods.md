@@ -2,6 +2,8 @@
 layout: tutorial
 title: Advanced Hacking Methods
 summary: This article covers advanced topics such as IP addresses, firewalls, and remote networks, along with how they can be hacked by using hacking tools like ping and telnet.
+weight: 2
+published: 1
 ---
 # Advanced Hacking Methods
 

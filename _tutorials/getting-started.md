@@ -2,6 +2,8 @@
 layout: tutorial
 title: Getting Started
 summary: This tutorial will cover the basics of becoming a full-fledged hacker. This section is divided up into sub-sections which cover different topics. New hackers should read this first.
+weight: 1
+published: 1
 ---
 Welcome to my "getting started" section. This page will cover the basics of becoming a full-fledged hacker. This section is divided up into sub-sections which cover different topics. If you already feel that you are comfortable, feel free to skip to the next section. There is no need to learn something more than once.
 

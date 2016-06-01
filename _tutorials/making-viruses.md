@@ -2,6 +2,7 @@
 layout: tutorial
 title: Making Viruses
 summary: Viruses, viruses, viruses. Need I say more? Probably the most important facet to hacking, my viruses page will cover viruses in full detail. By reading through this page, you'll learn what viruses do, and even how to make them.
+published: 0
 ---
 In a lectus sem in parturient fusce cras lacinia duis vehicula natoque diam mi hendrerit vestibulum ad ut cursus a est semper vestibulum class vehicula scelerisque. Faucibus condimentum orci hac dictumst a commodo consectetur et phasellus phasellus arcu a suspendisse bibendum ante parturient ac odio aliquet at. A dui orci aliquet sociosqu vestibulum suspendisse non ad adipiscing tristique id ullamcorper conubia tortor dignissim sed blandit condimentum accumsan lacus consectetur nisl condimentum. Ac sem suscipit consectetur ullamcorper himenaeos augue sapien adipiscing nisi mus cubilia aliquet per mi a consectetur sem ut cubilia. 
 
