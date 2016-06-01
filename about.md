@@ -56,4 +56,4 @@ PLEASE READ THE FAQ BEFORE E-MAILING ME! I hate it when I'm asked the same quest
 
 You can contact me anytime through my gmail account. I never sleep, so I will probably get back to you really fast. A true hacker is always quick on his feet.
 
-<a class="pure-button" href="/contact" title="Contact me here">Contact me here</a>
+<a class="pure-button" href="/contact" title="Contact me">Contact me</a>
