@@ -1,6 +1,7 @@
 ---
 layout: page
-title: FAQ
+title: Frequently Asked Questions
+menu-title: FAQ
 permalink: /faq/
 summary: I constantly get e-mails from people with a ton of good questions. This page contains the questions I get asked the most.
 ---

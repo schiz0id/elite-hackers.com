@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Tutorials
+title: Hacking Tutorials
+menu-title: Tutorials
 permalink: /tutorials/
 summary: These tutorials are the best place to start. It almost took me two years to get to where I am and become known as an elite hacker. I wrote these tutorials so you can read them and become a hacker within months.
 ---
