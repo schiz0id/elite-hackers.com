@@ -58,6 +58,11 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: $header-font-weight;
   color: $header-text-color;
   text-transform: uppercase;
+
+  a {
+    color: $header-link-text-color;
+    text-decoration: none;
+  }
 }
 
 //Lists
@@ -68,4 +73,9 @@ ul {
   li {
     margin-bottom: 15px;
   }
+}
+
+a {
+  color: $green4;
+  text-decoration: none;
 }
