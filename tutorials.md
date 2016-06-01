@@ -11,7 +11,8 @@ summary: These tutorials are the best place to start. It almost took me two year
   {% for tutorial in tutorials %}
     <div class="pure-u-1">
       <h2><a href="{{ tutorial.url }}">{{ tutorial.title }}</a></h2>
-      {{ tutorial.summary }}
+      <p>{{ tutorial.summary }}</p>
+      <a class="pure-button" title="Read {{ tutorial.title }}" href="{{ tutorial.url }}">Read Tutorial <i class="fa fa-caret-right"></i></a>
     </div>
   {% endfor %}
 </div>
