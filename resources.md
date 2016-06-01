@@ -18,8 +18,7 @@ Inceptos cubilia ullamcorper ac a ac suscipit justo maecenas suspendisse parturi
 <a class="pure-button" title="View hacker's dictionary" href="/dictionary">View hacker's dictionary<i class="fa fa-caret-right"></i></a>
 
 ## [Hacking Links](/links "Hacking Links") ##
-Velit ullamcorper condimentum parturient a condimentum mi feugiat justo libero suspendisse id aliquam sociosqu vestibulum vestibulum ut inceptos id mi a lectus primis parturient suspendisse amet parturient amet felis.
-Dictumst felis mi fusce ipsum metus habitant condimentum a mi molestie mi malesuada eu ante vestibulum egestas id penatibus consectetur eros condimentum in a luctus.
+I keep a tight watch on what is going on in the hacker community, and these links are without a doubt the best resources online. Only the best of the best are linked on my site.
 
 <a class="pure-button" title="Hacking links" href="/links">View hacking links <i class="fa fa-caret-right"></i></a>
 

@@ -3,7 +3,7 @@ layout: page
 title: Frequently Asked Questions
 permalink: /faq/
 hide-nav: true
-summary: I constantly get e-mails from people with a ton of good questions. This page contains the questions I get asked the most.
+summary: I constantly get e-mails from people with a ton of good questions. This page contains the questions I get asked the most. If you have a question, look here first, because if you e-mail me a question that is already answered here, <strong>you will be hacked!</strong>
 ---
 ### Can you hack into my school and change my grades for me? ### 
 No. I had to do it on my own for my failing PE grade, and it was really, really hard. Plus, I don't want to run the risk of getting caught. Read through my site, and these answers will come to you.
