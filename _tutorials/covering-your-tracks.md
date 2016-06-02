@@ -1,15 +1,13 @@
 ---
 layout: tutorial
 title: Covering Your Tracks
-summary: The most important thing skilled hackers do is cover their tracks. This article talks about how to hack people and servers without getting caught!
+summary: The most important thing skilled hackers do is cover their tracks. This article talks about how to hack people and servers and vanishing without a trace to avoid getting caught!
 published: 1
 weight: 4
 ---
 ## Internet Cookies ##
 
 Every time you view a web page, Internet Explorer stores what's called a cookie on your computer. Cookies are useful when you need to use the back button to go to the previous page, or to look through your browser history. A good hacker knows how to delete cookies and remain untraceable.
-
-
 
 ### Why Cookies Are Bad ###
 
@@ -34,7 +32,7 @@ Microsoft takes security very seriously, which is why I use them. You can <a tar
 
 ## HTTPS ##
 
-**Hidden Text Transmission Protocol Security** (or HTTPS for short) is a transmission method that Internet Explorer uses to encrypt the website address you're visiting. If the F.B.I. is <a href="#ping?">using ping</a> and gets your IP address, then they can track the web sites you're visiting **in real time**, which means they'll know even if you delete your cookies afterwards.
+**Hidden Text Transmission Protocol Security** (or HTTPS for short) is a transmission method that Internet Explorer uses to encrypt the website address you're visiting. If the F.B.I. is <a href="/tutorials/advanced-hacking-methods">using ping</a> and gets your IP address, then they can track the web sites you're visiting **in real time**, which means they'll know even if you delete your cookies afterwards.
 
 ### Using HTTPS ###
 
@@ -44,11 +42,22 @@ If you're browsing a site and want to prevent anyone from knowing where you're g
 
 Every link on this site uses HTTPS.
 
+## Downloading Files ##
+
+An astute hacker always uses caution when downloading things like hacking tools, databases, and source code. It's important that you choose a secure method of downloading files in order to avoid being traced.
+
+Even though Microsoft Internet Explorer is the only browser that is capable of HTTPS, that doesn't mean that all sites are secure. Only sites running Microsoft ASP.NET (like this site) come with out-of-the box encryption that is 100% safe. Only when you use Internet Explorer with these sites are you gauranteed to be untraceable. Since that isn't always the case, this is where P2P applications come in.
+
+### Using P2P for Encrypted File Downloads ###
+
+#### List of P2P software ####
+
+* KaZaA
+* BearShare
+* LimeWire
+
+
 ## Other Tips ##
 
 * DO NOT bookmark this site!
 * Do not set your homepage to hacking web sites
-* Use Peer-to-Peer for illegal downloads
-   * KaZaA
-   * BearShare
-   * LimeWire
