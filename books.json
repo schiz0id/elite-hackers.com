@@ -1,0 +1,13 @@
+---
+layout: null
+---
+{ 
+    {% for book in site.books %}
+    "{{ book.asin }}": {
+    "title": "{{ book.title }}",
+    "description": "{{ book.description }}",
+    "asin": "{{ book.asin }}",
+    "imgur-sm": "{{ book.imgur-sm }}"
+    }{% if forloop.last == false %},{% endif %}
+    {% endfor %}
+}
