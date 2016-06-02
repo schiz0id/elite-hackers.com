@@ -15,4 +15,9 @@ summary: These tutorials are the best place to start. It almost took me two year
       <a class="pure-button" title="Read {{ tutorial.title }}" href="{{ tutorial.url }}">Read Tutorial <i class="fa fa-caret-right"></i></a>
     </div>
   {% endfor %}
+    <div class="pure-u-1">
+      <h2><a href="/tutorials/viruses">Viruses</a></h2>
+      <p>Viruses, viruses, viruses. Need I say more? Probably the most important facet to hacking, my viruses page will cover viruses in full detail. By reading through this page, you'll learn what viruses do, and even how to make them.</p>
+      <a class="pure-button" title="Read Viruses" href="/tutorials/viruses">Read Tutorial <i class="fa fa-caret-right"></i></a>
+    </div>
 </div>
