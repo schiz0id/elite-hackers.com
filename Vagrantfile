@@ -38,7 +38,7 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
     v.gui = false
 
     # Use VBoxManage to customize the VM. For example to change memory:
-    v.customize ["modifyvm", :id, "--memory",               "64"]
+    v.customize ["modifyvm", :id, "--memory",               "256"]
     v.customize ["modifyvm", :id, "--cpuexecutioncap",      "95"]
     v.customize ["modifyvm", :id, "--natdnshostresolver1",  "on"]
     v.customize ["modifyvm", :id, "--natdnsproxy1",         "on"]
