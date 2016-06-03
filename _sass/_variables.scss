@@ -10,11 +10,11 @@ $font-size-md: $font-size-base;
 $font-size-lg: 120%;
 $font-size-xl: 150%;
 
-//Font colors
+//Text colors
 $green1: #0F0;
 $green2: #07C102;
 $green3: #0C0; //used for buttons
-$green4: #CFC; //used for buttons
+$green4: #a0fba0; //used for links
 
 //Headers
 $header-font: 'audimat_monolight';
@@ -22,7 +22,7 @@ $header-font-weight: 100;
 $header-text-color: $green1;
 
 //Header links
-$header-link-text-color: $green4;
+$header-link-text-color: $green1;
 
 //Standard body text
 $standard-text-font: 'Lekton', serif;
