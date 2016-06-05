@@ -94,7 +94,8 @@ Now that you have the friend ID and the 754-bit encrypted MyToken string, it's t
 
 ## Download
 
-[Download the MySpace Password Cracking Tool](http://elite-hackers.com/files/myspace_hacking_tool.exe)
+<p class="red">The MySpace password cracking tool is currently not available</p>
+<p>MySpace upgraded all of their UNIX servers to Microsoft .NET so it's a lot more secure and the password cracking tool no longer works. Once I crack the new algorithm, I'll fix the tool and post it here.</p>
 
 [myspace-sm]: http://i.imgur.com/ct2hOZsl.jpg "A MySpace profile that is about to be hacked"
 [myspace]: http://i.imgur.com/ct2hOZs.jpg
