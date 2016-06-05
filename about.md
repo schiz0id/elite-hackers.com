@@ -55,8 +55,8 @@ I would like to thank my partner hacker, <a href="http://www.dividesbyzer0.com" 
 I would also like to thank my fellow hacker parter, RaT, the founder of <a href="http://www.soldierx.com" target="_blank" title="SoldierX">SoldierX</a>. I spent over 2 weeks with RaT learning the art of cracking passwords. He helped me hack my very first database mainframe.
 
 ## Contact ##
-PLEASE READ THE FAQ BEFORE E-MAILING ME! I hate it when I'm asked the same questions over and over again. There have been too many times where I have lost it and hacked people who don't bother reading the answer beforehand. Don't put yourself in this situation. You've been warned.
+<a href="/faq" title="Frequently Asked Questions">READ THE FAQ BEFORE E-MAILING ME!</a> I hate it when I'm asked the same questions over and over again. There have been too many times where I have lost it and hacked people who don't bother reading the answer beforehand. Don't put yourself in this situation. You've been warned.
 
 You can contact me anytime through my Hotmail account. I never sleep, so I will probably get back to you really fast. A true hacker is always quick on his feet.
 
-<a class="pure-button" href="/contact" title="Contact me">Contact me</a>
+<a class="pure-button" href="/contact" title="Contact me">Contact schiz0id <i class="fa fa-caret-right"></i></a>
