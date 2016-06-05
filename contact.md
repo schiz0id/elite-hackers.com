@@ -1,13 +1,11 @@
 ---
 layout: page
 title: Contact
-summary: Read the <a href="/faq" title="Frequently Asked Questions">FAQ</a> before e-mailing me. If you ask a question that's already answered there, I will hack you!!1 I don't have my e-mail address because I don't want to get tracked by the F.B.I. This form will send messages to me on an untraceable server in Russia.
+summary: <a href="/faq" title="Frequently Asked Questions">Read the FAQ</a> before e-mailing me. If you ask a question that's already answered there, I will hack you!!1
 published: 1
 hide-nav: true
 ---
-[https://wiki.base22.com/pages/viewpage.action?pageId=72942000]()
-
-[http://goo.gl/forms/FAeJKwVD4YQPMs0j1]()
+I don't have my e-mail address listed because I don't want to get tracked by the F.B.I. This form is 100% encrypted and will send messages to me on an untraceable server in Russia, so it is safe for you to use.
 
 <form class="pure-form" id="callus" target="_self" onsubmit="" action="javascript:postContactToGoogle()">
 
@@ -27,7 +25,7 @@ hide-nav: true
   </fieldset>
 
   <div style="width: 100%; display: block; float: right;">
-    <button class="pure-button pure-button-primary" id="send" type="submit">Send</button>
+    <button class="pure-button pure-button-primary" id="send" type="submit">Send encrypted message <i class="fa fa-caret-right"></i></button>
   </div>
 
   <div style="width: 100%; display: block; float: right; padding-top: 15px;">
