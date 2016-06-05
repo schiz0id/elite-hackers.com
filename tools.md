@@ -15,11 +15,11 @@ summary: A skilled hacker always keeps a wide variety of tools so he can complet
 <div class="content-row">
   <h2>E-Mail Hacking Tool</h2>
   <p>You can completely own your victim once you have access to their e-mail account. This tool will hack their e-mail account so you can read their e-mail, pretend to be them, and even get access to their password reset e-mails for social media or dating web site accounts.</p>
-  <p class="red">Currently Unavailable</p>
+  <p>The e-mail hacking tool is currently being updated. Check back for an updated version.</p>
 </div>
 
 <div class="content-row">
   <h2>Facebook Hacking Tool</h2>
   <p>Facebook has billions of users, and your victim is probably one of them. Use this tool to hack into their Facebook account.</p>
-  <p class="red">Currently Unavailable</p>
+  <p>I'm still building the Facebook hacking tool and will release it soon.</p>
 </div>
