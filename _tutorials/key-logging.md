@@ -1,8 +1,9 @@
 ---
 layout: tutorial
+weight: 3
 title: Key Logging
 summary: Key logging is an art of hacking where you have physical access to the computer and its hardware ports for the keyboard. By using undetectable hardware, you can record every key your victim presses on their keyboard, revealing their account passwords so you can hack them.
-published: 0
+published: 1
 ---
 
 Stealth is a key trait of any good hacker. The next key trait is vanishing without a trace. Keyloggers are great because you can hack anything with them, install them without being tracked by McAfee Antivirus, and leave with your victim's passwords without them ever knowing.
@@ -16,7 +17,7 @@ Stealth is a key trait of any good hacker. The next key trait is vanishing witho
 
 ## Hardware Ports ##
 
-One of the most technical things about hacking is ports. There are software ports (examples include things like Bluetooth and Telnet) and hardware ports that you plug hardware into (things like USB devices and RAM). Keyloggers deal with hardware ports, and luckily keyboards only use two: USB and PS/2.
+One of the most technical things about hacking is ports. There are software ports (examples include things like Bluetooth and Telnet) and hardware ports that you plug hardware into (things like FireWire devices and RAM). Keyloggers deal with hardware ports, and luckily keyboards only use two: USB and PS/2.
 
 ### USB ###
 
