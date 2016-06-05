@@ -5,14 +5,21 @@ title: Hacking Tools
 permalink: /tools/
 summary: A skilled hacker always keeps a wide variety of tools so he can complete any task. Here you will find all the tools you will need to get the job done.
 ---
-<h2>Keylogger</h2>
-<p>Unlike most hacking tools, keyloggers are hardware that you buy. With access to the target computer, you can plug this into the port being used by the keyboard and it records whatever your victim types! The best thing about keyloggers is that they are&nbsp;<strong>untraceable!</strong> <a href="/tutorials/key-logging">Read more about how to use keyloggers in this tutorial</a>.</p>
+<div class="content-row">
+  <h2>Keylogger</h2>
+  <p>Unlike most hacking tools, keyloggers are hardware that you buy to get your victim's passwords. With access to the target computer, you can plug this into the port being used by the keyboard and it records whatever your victim types! The best thing about keyloggers is that they are&nbsp;<strong>untraceable!</strong> <a href="/tutorials/key-logging" title="Keylogging tutorial">Read more about how to use keyloggers here</a>.</p>
 
-<a href="http://www.amazon.com/dp/B004ZGXU48/?ref={{ site.amazon_tracking_id }}" target="_blank">Keyllama 4MB USB Keylogger</a>
+  <a class="pure-button" target="_blank" href="http://www.amazon.com/dp/B004ZGXU48/?ref={{ site.amazon_tracking_id }}" title="Get your keylogger">Get it <i class="fa fa-caret-right"></i></a>
+</div>
 
-<h2>E-Mail&nbsp;Hacking Tool</h2>
-<p><em>Describe the e-mail hacking tool, how it works, and provide a download link here.</em></p>
-<h2>Facebook Hacking Tool</h2>
-<p><em>Describe the Facebook hacking tool, how it works, and provide a download link here.</em></p>
-<h2>MySpace Hacking Tool</h2>
-<p><em>Describe the MySpace hacking tool, how it works, and provide a download link here.</em></p>
+<div class="content-row">
+  <h2>E-Mail Hacking Tool</h2>
+  <p>You can completely own your victim once you have access to their e-mail account. This tool will hack their e-mail account so you can read their e-mail, pretend to be them, and even get access to their password reset e-mails for social media or dating web site accounts. <a href="/tutorials/hacking-email-accounts" title="E-mail hacking tutorial">Read more about how e-mail works here</a>.</p>
+  <a class="pure-button pure-button-disabled" target="_blank" href="#" title="Download the e-mail hacking tool">Download it <i class="fa fa-caret-right"></i></a> <span class="red">Currently Unavailable</span>
+</div>
+
+<div class="content-row">
+  <h2>Facebook Hacking Tool</h2>
+  <p>Facebook has billions of users, and your victim is probably one of them. Use this tool to hack into their Facebook account. <a href="/tutorials/hacking-facebook" title="Hacking Facebook accounts">More information on hacking Facebook can be found here</a>.</p>
+  <a class="pure-button pure-button-disabled" target="_blank" href="#" title="Download the Facebook hacking tool">Download it <i class="fa fa-caret-right"></i></a> <span class="red">Currently Unavailable</span>
+</div>
