@@ -29,6 +29,6 @@ summary: True hackers are resourceful and use various resources to build their k
 
 <div class="content-row">
   <h2><a href="/text-files" title="Hacking Text Files">Hacking Text Files</a></h2>
-  <p>Ever since the beginning of hacking in the early 1990's, hackers were writing articles and documenting their findings. Because the internet wasn't invented yet and they didn't have blogs, they would save them as text files. When I read a hacking text file I find useful, I post it here.</p>
+  <p>Ever since the beginning of hacking in the early 1990's, hackers were writing articles and documenting their findings. Because the internet wasn't invented yet and they didn't have blogs, they would write them using Microsoft Windows Notepad. When I read a hacking text file I find useful, I post it here.</p>
   <a class="pure-button" title="Browse hacking text files" href="/text-files">Browse hacking text files <i class="fa fa-caret-right"></i></a>
 </div>
