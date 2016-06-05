@@ -79,3 +79,22 @@ a {
   color: $green4;
   //text-decoration: none;
 }
+
+.content-row {
+  margin-bottom: $default-padding * 2;
+}
+
+
+
+::selection {
+  background: $green1; /* WebKit/Blink Browsers */
+  color: #000;
+}
+::-moz-selection {
+  background: $green1; /* Gecko Browsers */
+  color: #000;
+}
+
+.scary-elite-hacker-threat {
+  color: #F00;
+}
