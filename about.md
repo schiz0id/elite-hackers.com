@@ -36,7 +36,7 @@ I wrote this page entirely in Windows Notepad, none of that uber-lame, pretty Fr
   </tr>
   <tr>
     <td>Languages:</td>
-    <td>HTML, JavaScript, CSS, QBasic, Visual Basic, Net+</td>
+    <td>HTML 4.0, JavaScript/Java, CSS, QBasic, Visual Basic, Net+</td>
   </tr>
   <tr>
     <td>OS (Operating System):</td>
