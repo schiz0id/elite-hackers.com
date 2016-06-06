@@ -45,7 +45,9 @@ Ping is a tool used to endlessly make requests to a server or another person. It
 
 Either way, by pinging a site, you can easily over-load it with requests, and at the same time obtain the IP. Ping is supported in Microsoft DOS, as shown below:
 
-[![An advanced hacking method using ping to steal a server's IP address][ping-sm]][ping]
+<a target="_blank" title="An advanced hacking method using ping to steal a server's IP address" href="http://i.imgur.com/NkM14Sa.gif" data-featherlight="http://i.imgur.com/NkM14Sa.gif">
+  <img alt="An advanced hacking method using ping to steal a server's IP address" src="http://i.imgur.com/NkM14Sal.gif">
+</a>
 
 As you see, the hacker here is using Windows XP (a good choice), and in order to get the IP of mediacollege.com, the only thing he had to do was open up a DOS prompt and type in **ping mediacollege.com**. Upon doing so, mediacollege.com was instantly hit with 4 requests which distracted their server long enough in order for Ping to steal the IP address.
 
@@ -63,7 +65,9 @@ Sub7 is a R.A.T (Remote Administration Tool) that basically has two parts: a cli
 
 Sub7 has made this easy, but the only hard part is having the server installed on the other machine. You can see the official Sub7 website for tactics on how to accomplish this.
 
-[![Sub7 - the most dangerous hacking tool ever made][sub7-sm]][sub7]
+<a target="_blank" title="Sub7 - the most dangerous hacking tool ever made" href="http://i.imgur.com/6BzA2um.gif" data-featherlight="http://i.imgur.com/6BzA2um.gif">
+  <img alt="Sub7 - the most dangerous hacking tool ever made" src="http://i.imgur.com/6BzA2uml.gif">
+</a>
 
 ### Features
 
@@ -129,7 +133,9 @@ Chain hacking is a method in which a hacker uses Telnet to connect through a cha
 
 What you're basically doing is using a series of machines as a chain in order to conceal your location/identity. The farther away each server/remote PC is from the other, the better. If you can remote across to a different continent, I would recommend doing so, because that's what I do when I hack big company databases. This method is explained in more detail [here](http://www.skullbox.net/telnethack.php).
 
-[![A hacker who knows what he's doing with Telnet][telnet-sm]][telnet]
+<a target="_blank" title="A hacker who knows what he's doing with Telnet" href="http://i.imgur.com/7wwzZt7.jpg" data-featherlight="http://i.imgur.com/7wwzZt7.jpg">
+  <img alt="A hacker who knows what he's doing with Telnet" src="http://i.imgur.com/7wwzZt7l.jpg">
+</a>
 
 ### Going Further with Telnet
 
@@ -162,12 +168,3 @@ This is just a basic overview of what notepad is capable of. You are able to edi
 If you have been reading everything so far, you should have a good grasp on the basics of becoming a hacker as well as the various tools and techniques mentioned in the previous sections. It would be best for you to master these tools and get familiar with them. Doing so will build a solid foundation for your future as a hacker. If you're not too sure about a particular subject or tool, go back and read more about it until you understand.
 
 The reason it's important for you to throroughly understand everything is because you're going to start learning about real-world hacking. In the upcoming section you'll be focusing on hacking MySpace accounts. Doing this is highly illegal (and fun), so it's very important you know your basics before proceding. Mastering the art of using elite tools like Sub7, ping, telnet, and notepad is the only way to becoming a true hacker.
-
-[ping-sm]: http://i.imgur.com/NkM14Sal.gif "An advanced hacking method using ping to steal a server's IP address"
-[ping]: http://i.imgur.com/NkM14Sa.gif
-
-[sub7-sm]: http://i.imgur.com/6BzA2uml.gif "Sub7 - the most dangerous hacking tool ever made"
-[sub7]: http://i.imgur.com/6BzA2um.gif
-
-[telnet-sm]: http://i.imgur.com/7wwzZt7l.jpg "A hacker who knows what he's doing with Telnet"
-[telnet]: http://i.imgur.com/7wwzZt7.jpg
