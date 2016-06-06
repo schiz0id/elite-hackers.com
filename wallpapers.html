@@ -5,10 +5,14 @@ title: Elite Wallpapers
 menu-title: Wallpapers
 summary: I added this section to assist you in setting up your hacker desktop. I've collected a HUGE variety of hacker wallpapers here. You might notice that a couple of them come from my favorite movie trilogy of all time.
 ---
-<div class="pure-g">
-{% for wallpaper in site.wallpapers %}
-  <div class="pure-u-1-1 pure-u-sm-1-1 pure-u-md-1-2 pure-u-lg-1-3 pure-u-xl-1-4">
-    <a href="http://i.imgur.com/{{ wallpaper.imgur }}.jpg"><img class="pure-img" src="http://i.imgur.com/{{ wallpaper.imgur }}t.jpg"><br>{{ wallpaper.title }}</a>
+<div class="wallpapers">
+  <div class="pure-g">
+  {% for wallpaper in site.wallpapers %}
+    <div class="pure-u-1-1 pure-u-sm-1-1 pure-u-md-1-2 pure-u-lg-1-3 pure-u-xl-1-3">
+      <div class="wallpaper">
+        <a title="{{ wallpaper.title }}" href="http://i.imgur.com/{{ wallpaper.imgur }}.jpg" data-featherlight="http://i.imgur.com/{{ wallpaper.imgur }}.jpg"><img class="pure-img" alt="{{ wallpaper.title }}" src="http://i.imgur.com/{{ wallpaper.imgur }}m.jpg"></a>
+      </div>
   </div>
-{% endfor %}
+  {% endfor %}
+  </div>
 </div>

@@ -99,3 +99,12 @@ a {
 .red {
   color: #F00;
 }
+
+.wallpapers {
+  .wallpaper {
+    padding: 10px;
+    img {
+      border: 1px solid #040;
+    }
+  }
+}
