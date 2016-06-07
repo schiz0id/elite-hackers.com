@@ -3,7 +3,7 @@ layout: page
 title: Hacking Text Files
 hide-nav: true
 permalink: /text-files/
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi et mauris auctor, tincidunt orci lacinia, eleifend massa. Sed tristique ultricies eros id vulputate. Donec ultricies ac purus quis porta. Nam ante augue, efficitur et nibh quis, venenatis porttitor nulla. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus.
+summary: Ever since the beginning of hacking in the early 1990's, hackers were writing articles and documenting their findings. Because the internet wasn't invented yet and they didn't have blogs, they would write them using Microsoft Windows Notepad. When I read a hacking text file I find useful, I post it here.
 ---
 {% assign textfiles = site.textfiles %}
 <div class="textfiles">
