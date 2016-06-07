@@ -41,5 +41,5 @@ collections:
     output: false
     permalink: /dictionary/:slug/
   textfiles:
-    output: true
+    output: false
     permalink: /resources/text-files/:title.txt
