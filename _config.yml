@@ -22,6 +22,8 @@ excerpt_separator: <!--more-->
 
 amazon_tracking_id: "theelihacsit-20"
 
+exclude: [provision.sh, Vagrantfile]
+
 # Build settings
 markdown: kramdown
 
@@ -30,7 +32,7 @@ collections:
     output: true
     permalink: /tutorials/:slug/
   books:
-    output: true
+    output: false
     permalink: /resources/books/:slug/
   wallpapers:
     output: false
@@ -38,3 +40,6 @@ collections:
   dictionary_terms:
     output: false
     permalink: /dictionary/:slug/
+  textfiles:
+    output: true
+    permalink: /resources/text-files/:title.txt
