@@ -13,13 +13,11 @@ I know by now that you're ready to starting hacking servers and people, but ther
 
 These documents that I'm about to show you are known as sacred documents of the internet. They contain confessions and illegal acts of REAL hackers who know what they're doing. As stated before, I take no responsibility for what you do with the information provided here. It's all for educational purposes only!
 
-*   [Mentor's Last Words](http://elite-hackers.com/files/mentors_last_words.txt)
-*   [Basics of Hacking](http://elite-hackers.com/files/hacking_tutorial1.txt)
-*   [Basics of Hacking Part II](http://elite-hackers.com/files/hacking_tutorial2.txt)
-*   [Hacking TRW's](http://elite-hackers.com/files/hacking_trw.txt)
-*   [Hacking VAX's and UNIX](http://elite-hackers.com/files/hacking_vax_unix.txt)
-
-See [http://www.textfiles.com/hacking/](http://www.textfiles.com/hacking/) for more in-depth tutorials.
+*   [Mentor's Last Words](/assets/textfiles/lastwords.txt)
+*   [Basics of Hacking by the Jolly Roger](/assets/textfiles/hackingtutorial1.txt)
+*   [Basics of Hacking Part II by the Jolly Roger](/assets/textfiles/hackingtutorial2.txt)
+*   [Hacking TRW's](/assets/textfiles/hackingtrw.txt)
+*   [Hacking VAX's and UNIX](/assets/textfiles/hackingvaxunix.txt)
 
 ## IP Addresses (Internet Protocols) and how to steal them
 
