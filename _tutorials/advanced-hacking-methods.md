@@ -27,13 +27,25 @@ Internet Protocols Addresses are usually made up of random numbers seperated by 
 
 ### Examples of IP Addresses:
 
-*   66.17.44.186
-*   81.73.50.42
-*   192.168.1.1
-*   127.0.0.1
-*   84.10.1.5982
-*   17.44.186
-*   816.83.337.04
+<div class="pure-g">
+  <div class="pure-u-1 pure-u-md-1-2">
+    <h4>IP Version 4 (common)</h4>
+    <ul>
+      <li>127.0.0.1</li>
+      <li>84.10.1.5982</li>
+      <li>17.44.186</li>
+      <li>816.83.337.04</li>
+    </ul>
+  </div>
+  <div class="pure-u-1 pure-u-md-1-2">
+    <h4>IP Version 6 (newer)</h4>
+    <ul>
+      <li>1.2.7.0.0.1</li>
+      <li>66.17.44.186.0001.53</li>
+      <li>181.3.500.6.50.1337</li>
+    </ul>
+  </div>
+</div>
 
 Obtaining a target's IP is address is the first step to prepare for an attack. Explained below are methods of obtaining a victim's IP address.
 
@@ -159,9 +171,9 @@ NextGenHacker101 has provided an indepth video tutorial on how to effectively us
 
 <div style="display: none;"><iframe id="fl-tracer-t" width="420" height="315" src="https://www.youtube.com/embed/SXmv8quf_xM" frameborder="0" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen=""></iframe></div>
 
-### Using Tracer-T to DDOS Servers and Web Sites ###
+### Using Tracer-T to DOS Attack Servers and Web Sites ###
 
-Once you gather the IP address of the users and use Telnet to hack into them, you can use their computers to attack the web site with Sub7. You could also use all the computers to ping the server at the same time and bring the site down. This is known as a DDOS (Denial of Service) attack.
+Once you gather the IP addresses of the users and use Telnet to hack into them, you can use their computers to attack the web site with Sub7. You can also use all the computers to ping the server at the same time and bring the site down. This is what is known as a DOS attack since Ping and Tracer-T are ran through the Microsoft DOS command prompt (Start > Run > cmd).
 
 Tracer-T is a very powerful program. Combined with Ping and Telnet, it can be used to hack anything -- even firewalls.
 
