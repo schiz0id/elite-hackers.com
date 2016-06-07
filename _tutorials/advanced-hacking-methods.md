@@ -1,7 +1,7 @@
 ---
 layout: tutorial
 title: Advanced Hacking Methods
-summary: This article covers advanced topics such as IP addresses, firewalls, and remote networks, along with how they can be hacked by using hacking tools like ping and telnet.
+summary: This article covers advanced topics such as IP addresses, firewalls, and remote networks, along with how they can be hacked by using hacking tools like Ping and Telnet.
 weight: 2
 published: 1
 ---
@@ -43,8 +43,8 @@ Ping is a tool used to endlessly make requests to a server or another person. It
 
 Either way, by pinging a site, you can easily over-load it with requests, and at the same time obtain the IP. Ping is supported in Microsoft DOS, as shown below:
 
-<a target="_blank" title="An advanced hacking method using ping to steal a server's IP address" href="http://i.imgur.com/NkM14Sa.gif" data-featherlight="http://i.imgur.com/NkM14Sa.gif">
-  <img class="pure-img" alt="An advanced hacking method using ping to steal a server's IP address" src="http://i.imgur.com/NkM14Sal.gif">
+<a target="_blank" title="An advanced hacking method using Ping to steal a server's IP address" href="http://i.imgur.com/NkM14Sa.gif" data-featherlight="http://i.imgur.com/NkM14Sa.gif">
+  <img class="pure-img" alt="An advanced hacking method using Ping to steal a server's IP address" src="http://i.imgur.com/NkM14Sal.gif">
 </a>
 
 As you see, the hacker here is using Windows XP (a good choice), and in order to get the IP of mediacollege.com, the only thing he had to do was open up a DOS prompt and type in **ping mediacollege.com**. Upon doing so, mediacollege.com was instantly hit with 4 requests which distracted their server long enough in order for Ping to steal the IP address.
@@ -123,7 +123,7 @@ Telnet is the only technology that gives you the power to control machines remot
 Chain hacking is a method in which a hacker uses Telnet to connect through a chain of computers and hack a computer/person/server from a different location. It might sound complicated to the average newbie, but it's quite simple. Just follow these steps:
 
 1.  Choose public place with an internet connection, such as a library or coffee shop. Bring your own equipment if possible.
-2.  Run telnet (Start > Run > Telnet)
+2.  Run Telnet (Start > Run > Telnet)
 3.  Log into a remote server
 4.  Use that server to remote into another server
 5.  Repeat steps 2-4 a couple times
@@ -138,6 +138,33 @@ What you're basically doing is using a series of machines as a chain in order to
 ### Going Further with Telnet
 
 While this site provides a lot of information, programs like Sub7, Ping, and Telnet have extensive documentation of their own. If you would like to read up on all of the rich features on Telnet, [Telnet.org](http://www.telnet.org) is your number one resource.
+
+## Viewing Multiple Target IPs and Connection Speeds with Tracer-T ##
+
+If you know of a web site and want to hack its users, Tracer-T is a great way to gather multiple IP addresses at one time. By running it against a web site, you can see who is connecting to it and what their connection speed is (this is important to know). Tracer-T can also provide you with the city that the user is connecting from! 
+
+Tracer-T comes pre-installed on Microsoft Windows (along with Ping and Telnet).
+
+### Essential Video Tutorial ###
+
+NextGenHacker101 has provided an indepth video tutorial on how to effectively use Tracer-T. In this video he explains:
+
+* What Tracer-T is
+* How to run it through the Windows start menu
+* How to read the list of users/IPs connected to a web site
+* How to analyze the users' connection speeds
+* How to find where the users are physically located
+
+<a href="#" data-featherlight="#fl-tracer-t">Watch NextGenHacker101's Tracer-T Tutorial</a>
+
+<div style="display: none;"><iframe id="fl-tracer-t" width="420" height="315" src="https://www.youtube.com/embed/SXmv8quf_xM" frameborder="0" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen=""></iframe></div>
+
+### Using Tracer-T to DDOS Servers and Web Sites ###
+
+Once you gather the IP address of the users and use Telnet to hack into them, you can use their computers to attack the web site with Sub7. You could also use all the computers to ping the server at the same time and bring the site down. This is known as a DDOS (Denial of Service) attack.
+
+Tracer-T is a very powerful program. Combined with Ping and Telnet, it can be used to hack anything -- even firewalls.
+
 
 ## Raw Text Editing Using Notepad
 
@@ -165,4 +192,4 @@ This is just a basic overview of what notepad is capable of. You are able to edi
 
 If you have been reading everything so far, you should have a good grasp on the basics of becoming a hacker as well as the various tools and techniques mentioned in the previous sections. It would be best for you to master these tools and get familiar with them. Doing so will build a solid foundation for your future as a hacker. If you're not too sure about a particular subject or tool, go back and read more about it until you understand.
 
-The reason it's important for you to throroughly understand everything is because you're going to start learning about real-world hacking. In the upcoming section you'll be focusing on hacking MySpace accounts. Doing this is highly illegal (and fun), so it's very important you know your basics before proceding. Mastering the art of using elite tools like Sub7, ping, telnet, and notepad is the only way to becoming a true hacker.
+The reason it's important for you to throroughly understand everything is because you're going to start learning about real-world hacking. In the upcoming section you'll be focusing on hacking MySpace accounts. Doing this is highly illegal (and fun), so it's very important you know your basics before proceding. Mastering the art of using elite tools like Sub7, Ping, Telnet, and notepad is the only way to becoming a true hacker.
