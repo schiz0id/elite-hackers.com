@@ -35,3 +35,6 @@ collections:
   wallpapers:
     output: false
     permalink: /downloads/wallpapers/:slug/
+  dictionary_terms:
+    output: false
+    permalink: /dictionary/:slug/
