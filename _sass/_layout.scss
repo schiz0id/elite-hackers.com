@@ -108,3 +108,19 @@ a {
     }
   }
 }
+
+.pure-table {
+  border: 0;
+  th, td {
+    border: 0;
+    background-color: inherit;
+  }
+  width: 100%;
+  thead {
+    background-color: inherit;
+    color: $green1;
+  }
+  td {
+    background-color: inherit;
+  }
+}

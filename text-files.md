@@ -7,7 +7,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi et mauri
 ---
 {% assign textfiles = site.textfiles %}
 <div class="textfiles">
-  <table class="pure-table pure-table-striped">
+  <table class="pure-table">
     <thead>
       <tr>
         <th>File</th>
