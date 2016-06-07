@@ -3,6 +3,7 @@ layout: page
 title: Contact
 summary: <a href="/faq" title="Frequently Asked Questions">Read the FAQ</a> before e-mailing me. If you ask a question that's already answered there, I will hack you!!1
 published: 1
+permalink: /contact/
 hide-nav: true
 ---
 I don't have my e-mail address listed because I don't want to get tracked by the F.B.I. This form is 100% encrypted and will send messages to me on an untraceable server in Russia, so it is safe for you to use.
