@@ -50,14 +50,45 @@ Even though Microsoft Internet Explorer is the only browser that is capable of H
 
 ### Using P2P for Encrypted File Downloads ###
 
-#### List of P2P software ####
+P2P (Peer-2-Peer) software is the best way to download hacker software, trojans, viruses, and worms. Since you download files from individual users through a secure connection, it's a lot harder for the F.B.I to track anything. 
 
-* KaZaA
-* BearShare
-* LimeWire
+#### List of the best P2P clients  ####
 
+* <a target="_blank" title="KaZaA" href="http://www.kazaa.com">KaZaA</a>
+* <a target="_blank" title="BearShare" href="http://www.bearshare.com">BearShare</a>
+* <a target="_blank" title="LimeWire" href="http://www.limewire.com">LimeWire</a>
+* <a target="_blank" title="Naptser" href="http://www.napster.com">Napster</a> (Owned by Rhapsody and no longer P2P)
+
+Although they are still widely used, the web sites to download most of these P2P clients have unfortunately been shut down by the F.B.I, so it's hard to get a copy of them. <a target="_blank" title="WireShare" href="https://sourceforge.net/projects/wireshare/">WireShare</a> is a LimeWire clone that hasn't been taken offline yet. 
+
+If you can't get a copy of BearShare or KaZaA, try downloading your hacking tools using WireShare. Just make sure you use P2P when downloading illegal hacking tools to avoid being traced.
 
 ## Other Tips ##
 
-* DO NOT bookmark this site!
-* Do not set your homepage to hacking web sites
+Deleting your internet history cookies, using InPrivate browsing, using HTTPS, and securing your method of downloading tools using P2P are all good ways to hack servers without getting caught. In order to avoid any suspsicion, follow these tips as well.
+
+### Bookmarks and the Internet Explorer Home Page ###
+
+Reading this web site is <strong>not</strong> illegal. However, it is known as the greatest hacking site online. Therefore, you should not bookmark this site if you actually attempt to hack something. Also avoid making this site (or any hacking site) your Internet Explorer home page.
+
+If for some reason the F.B.I decides to make you a target (They won't if you do what I say on this page), finding this site in your history or bookmarks will raise suspiscion.
+
+### Always empty your recycling bin ###
+
+Countless hackers have been caught even after deleting their files.
+
+Imagine you're on KaZaA downloading some hacking tools to try out and you decide to try Sub7. So you download it, use it to crack into something like a web site, and then you delete it.
+
+What you didn't know is that <strong>it's still in your recycling bin and can be found</strong>. This is evidence that the F.B.I. can use against you. When you're done hacking and deleting your tools, <strong>always</strong> make sure to right click on your recycling bin and click "<strong>Empty Recycling Bin</strong>".
+
+Microsoft does this to prevent accidentally deleting something on accident. Only after emptying your recycling bin can you be sure that your deleted hacking software is 100% clear from your hard drive.
+
+## Conclusion ##
+
+A hacker is no good if he is in prison, and if he ends up in prison, that means he wasn't good. Great hackers use this information to ensure that they are untraceable and leave no evidence behind. Here is a summary:
+
+* Always **delete your internet history cookies** from Internet Explorer
+* When browsing hacking-related sites, **always use Hidden Text Transmission Protocol Security (HTTPS)**
+* **Always download hacking tools using P2P clients** if HTTPS isn't available (this site uses HTTPS, so you won't be tracked)
+* If you're an active hacker, **don't bookmark hacking web sites** or set them as your home page in Internet Explorer
+* **ALWAYS empty your recycling bin** to ensure that any incriminating files are completely off of your hard drive.
