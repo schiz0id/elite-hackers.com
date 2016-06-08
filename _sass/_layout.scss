@@ -85,7 +85,7 @@ a {
 }
 
 
-
+//Background on selected text
 ::selection {
   background: $green1; /* WebKit/Blink Browsers */
   color: #000;
@@ -95,11 +95,13 @@ a {
   color: #000;
 }
 
+//Red / 404
 .scary-elite-hacker-threat,
 .red {
   color: #F00;
 }
 
+//Wallpapers
 .wallpapers {
   .wallpaper {
     padding: 10px;
@@ -109,6 +111,7 @@ a {
   }
 }
 
+// Text files
 .pure-table {
   border: 0;
   th, td {
@@ -124,5 +127,20 @@ a {
   }
   td {
     background-color: inherit;
+  }
+}
+
+//Contact
+.contact .pure-form {
+  label {
+    display: block;
+  }
+  input, textarea {
+    background: rgba(0, 200, 0, .1);
+    border: 1px solid #030;
+    box-shadow: none;
+    box-sizing: 0;
+    color: $green2;
+    border-radius: 0;
   }
 }
