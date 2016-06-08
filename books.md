@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-no-ad
 weight: 3
 title: "Hacking Books"
 menu-title: "Books"

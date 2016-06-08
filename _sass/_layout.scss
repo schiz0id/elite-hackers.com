@@ -145,6 +145,17 @@ a {
   }
 }
 
-.banner-contaienr {
+.banner-container {
   padding-left: 20px;
+}
+
+.book.ad-right {
+  text-align: left;
+  .book-info {
+    margin-top: $default-padding;
+    padding: 0;
+  }
+  a {
+    width: 100%;
+  }
 }

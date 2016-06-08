@@ -6,6 +6,7 @@ layout: null
     "{{ book.asin }}": {
     "title": "{{ book.title }}",
     "url": "http://www.amazon.com/dp/{{ book.asin }}/?tag={{ site.amazon_tracking_id }}",
+    "description": "{{ book.description }}",
     "imgur-sm": "{{ book.imgur-sm }}"
     }{% if forloop.last == false %},{% endif %}
     {% endfor %}

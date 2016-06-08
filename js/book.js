@@ -1,7 +1,7 @@
 $(document).ready(function() {
 
   //Check for container for book ad
-  var book_ad_container = $(document).find('#home').find('#book_ad_container');
+  var book_ad_container = $(document).find('#book_ad_container');
 
   //If container for ad exists, read populate markup from JSON and show ad
   if(book_ad_container.length != 0) {
@@ -20,6 +20,9 @@ $(document).ready(function() {
 
       //Title
       $(book_ad_container).find('.book-title').text(book.title);
+
+      //Description
+      $(book_ad_container).find('.book-description').text(book.description);
 
       $(book_ad_container).show();
     });
