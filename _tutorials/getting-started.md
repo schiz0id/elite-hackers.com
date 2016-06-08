@@ -104,19 +104,27 @@ First, let's start with the default Windows XP desktop and list the pros and con
   <img class="pure-img" src="http://i.imgur.com/zeWxB11l.png" alt="Default Windows XP desktop">
 </a>
 
-### Pros:
+<div class="pure-g">
+  <div class="pure-u-1 pure-u-md-1-2">
+    <h3>Pros:</h3>
+    <ul>
+      <li>Stable</li>
+      <li>Clean</li>
+      <li>Has a start button</li>
+      <li>It just works</li>
+    </ul>
+  </div>
 
-*   Stable
-*   Clean
-*   Has a start button
-*   It just works
-
-### Cons:
-
-*   Kinda newbie looking
-*   Too bright
-*   No tools!
-*   Windows messenger sucks, we need Trillian
+  <div class="pure-u-1 pure-u-md-1-2">
+    <h3>Cons:</h3>
+    <ul>
+      <li>Kinda newbie looking</li>
+      <li>Too bright</li>
+      <li>No tools!</li>
+      <li>Windows messenger sucks, we need Trillian</li>
+    </ul>
+  </div>
+</div>
 
 This is a great start for right out of the box. But there are still a few things that could use work. A good hacker always takes the time to make his desktop look uber elite. Below are a couple of screenshots of what your desktop should look like.
 
@@ -124,23 +132,31 @@ This is a great start for right out of the box. But there are still a few things
   <img class="pure-img" src="http://i.imgur.com/PV983KKl.jpg" alt="Pimped out Windows XP desktop">
 </a>
 
-### Pros:
+<div class="pure-g">
+  <div class="pure-u-1 pure-u-md-1-2">
+    <h3>Pros:</h3>
+    <ul>
+      <li>Clean</li>
+      <li>Has a start button</li>
+      <li>It just works</li>
+      <li>Nice science-fiction wallpaper</li>
+      <li>Transparent Winamp - very good to have</li>
+      <li>mIRC is installed - it's the best IRC client</li>
+      <li>Spyware tools for protection</li>
+      <li>Has IE (Internet Explorer) for browsing</li>
+      <li>Azerius - BitTorrent client for downloading good programs</li>
+      <li>Has a start button</li>
+    </ul>
+  </div>
 
-*   Clean
-*   Has a start button
-*   It just works
-*   Nice science-fiction wallpaper
-*   Transparent Winamp - very good to have
-*   mIRC is installed - it's the best IRC client
-*   Spyware tools for protection
-*   Has IE (Internet Explorer) for browsing
-*   Azerius - BitTorrent client for downloading good programs
-*   Has a start button
-
-### Cons:
-
-*   Still needs Trillian
-*   No shortcut to notepad. You need notepad for programming.
+  <div class="pure-u-1 pure-u-md-1-2">
+    <h3>Cons:</h3>
+    <ul>
+      <li>Still needs Trillian</li>
+      <li>No shortcut to notepad. You need notepad for programming.</li>
+    </ul>
+  </div>
+</div>
 
 As you can see, this hacker is well prepared. They have everything but quick access to notepad, and they are lacking a multi-client instant messenging program (Trillian), so they can't talk to people. Other than that, I'd give this elite desktop a 8/10\. It's a real eye-catching desktop, perfect for any hardcore hacker.
 
@@ -148,17 +164,25 @@ As you can see, this hacker is well prepared. They have everything but quick acc
   <img class="pure-img" src="http://i.imgur.com/fTrVJpVl.jpg " alt="Elite Windows XP desktop">
 </a>
 
-### Pros:
+<div class="pure-g">
+  <div class="pure-u-1 pure-u-md-1-2">
+    <h3>Pros:</h3>
+    <ul>
+      <li>Windows Vista!!</li>
+      <li>Looks like a Mac</li>
+      <li>Sleek menus</li>
+      <li>Awesome colors</li>
+    </ul>
+  </div>
 
-*   Windows Vista!!
-*   Looks like a Mac
-*   Sleek menus
-*   Awesome colors
-
-### Cons:
-
-*   Not in English
-*   No Trillian
+  <div class="pure-u-1 pure-u-md-1-2">
+    <h3>Cons:</h3>
+    <ul>
+      <li>Not in English</li>
+      <li>No Trillian</li>
+    </ul>
+  </div>
+</div>
 
 While the tools aren't heavily accessible on this user's desktop, it is by far the best one out of the three. With such a clean interface, any skilled hacker can get the job done right. I bet this person put a lot of money into this system, which will pay off in the long run.
 
