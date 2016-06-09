@@ -100,8 +100,8 @@ Now that you have learned to be mature, have established a second identity, and 
 
 First, let's start with the default Windows XP desktop and list the pros and cons about it:
 
-<a target="_blank" title="Default Windows XP desktop" href="http://i.imgur.com/zeWxB11.png" data-featherlight="http://i.imgur.com/zeWxB11.png">
-  <img class="pure-img" src="http://i.imgur.com/zeWxB11l.png" alt="Default Windows XP desktop">
+<a target="_blank" title="Default Windows XP desktop" href="//i.imgur.com/zeWxB11.png" data-featherlight="//i.imgur.com/zeWxB11.png">
+  <img class="pure-img" src="//i.imgur.com/zeWxB11l.png" alt="Default Windows XP desktop">
 </a>
 
 <div class="pure-g">
@@ -128,8 +128,8 @@ First, let's start with the default Windows XP desktop and list the pros and con
 
 This is a great start for right out of the box. But there are still a few things that could use work. A good hacker always takes the time to make his desktop look uber elite. Below are a couple of screenshots of what your desktop should look like.
 
-<a target="_blank" title="Pimped out Windows XP desktop" href="http://i.imgur.com/PV983KK.jpg" data-featherlight="http://i.imgur.com/PV983KK.jpg">
-  <img class="pure-img" src="http://i.imgur.com/PV983KKl.jpg" alt="Pimped out Windows XP desktop">
+<a target="_blank" title="Pimped out Windows XP desktop" href="//i.imgur.com/PV983KK.jpg" data-featherlight="//i.imgur.com/PV983KK.jpg">
+  <img class="pure-img" src="//i.imgur.com/PV983KKl.jpg" alt="Pimped out Windows XP desktop">
 </a>
 
 <div class="pure-g">
@@ -160,8 +160,8 @@ This is a great start for right out of the box. But there are still a few things
 
 As you can see, this hacker is well prepared. They have everything but quick access to notepad, and they are lacking a multi-client instant messenging program (Trillian), so they can't talk to people. Other than that, I'd give this elite desktop a 8/10\. It's a real eye-catching desktop, perfect for any hardcore hacker.
 
-<a target="_blank" title="Elite Windows XP desktop" href="http://i.imgur.com/fTrVJpV.jpg" data-featherlight="http://i.imgur.com/fTrVJpV.jpg">
-  <img class="pure-img" src="http://i.imgur.com/fTrVJpVl.jpg " alt="Elite Windows XP desktop">
+<a target="_blank" title="Elite Windows XP desktop" href="//i.imgur.com/fTrVJpV.jpg" data-featherlight="//i.imgur.com/fTrVJpV.jpg">
+  <img class="pure-img" src="//i.imgur.com/fTrVJpVl.jpg " alt="Elite Windows XP desktop">
 </a>
 
 <div class="pure-g">

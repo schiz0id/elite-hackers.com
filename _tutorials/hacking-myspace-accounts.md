@@ -82,8 +82,8 @@ Make sure that when you create an account, you give them a fake e-mail address a
 
 These are the only two things you are going to need for the password cracking tool. Luckily for you, the friend ID and MyToken string are easy to find. Once you log into your new MySpace account, search for the person whose MySpace account you want to hack into. Once you find them, go to their profile. What you need is going to be in the URL. To make it easy for you, I've taken a screenshot that shows you what you should be looking for:
 
-<a target="_blank" title="A MySpace profile that is about to be hacked" href="http://i.imgur.com/ct2hOZs.jpg" data-featherlight="http://i.imgur.com/ct2hOZs.jpg">
-  <img class="pure-img" alt="A MySpace profile that is about to be hacked" src="http://i.imgur.com/ct2hOZsl.jpg">
+<a target="_blank" title="A MySpace profile that is about to be hacked" href="//i.imgur.com/ct2hOZs.jpg" data-featherlight="//i.imgur.com/ct2hOZs.jpg">
+  <img class="pure-img" alt="A MySpace profile that is about to be hacked" src="//i.imgur.com/ct2hOZsl.jpg">
 </a>
 
 If you didn't notice, on the top right section of that screenshot, I highlighted both the friend ID and the 754-bit encrypted MyToken string. You should see this in the URL of every MySpace profile you want to hack.
