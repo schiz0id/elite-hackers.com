@@ -20,7 +20,7 @@ github_username:  schiz0id
 
 excerpt_separator: <!--more-->
 
-amazon_tracking_id: "theelihacsit-20"
+amazon_tracking_id: "elitehackers-20"
 
 exclude: [provision.sh, Vagrantfile, assets/textfiles-md]
 
