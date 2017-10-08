@@ -4,3 +4,4 @@ _site
 config.codekit
 bower_components
 .vagrant
+.DS_Store
