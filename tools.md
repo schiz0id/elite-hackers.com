@@ -5,12 +5,19 @@ title: Hacking Tools
 permalink: /tools/
 summary: A skilled hacker always keeps a wide variety of tools so he can complete any task. Here you will find all the tools you will need to get the job done.
 ---
-<div class="content-row">
-  <h2>Keylogger</h2>
-  <p>Unlike most hacking tools, keyloggers are hardware that you buy to get your victim's passwords. With access to the target computer, you can plug this into the port being used by the keyboard and it records whatever your victim types! The best thing about keyloggers is that they are&nbsp;<strong>untraceable!</strong> <a href="/tutorials/key-logging" title="Keylogging tutorial">Read more about how to use keyloggers here</a>.</p>
+{% assign tools = site.tools | sort:"weight" %}
 
-  <a class="pure-button" target="_blank" href="http://www.amazon.com/dp/B004ZGXU48/?ref={{ site.amazon_tracking_id }}" title="Get your keylogger">Get it <i class="fa fa-caret-right"></i></a>
-</div>
+{% for tool in tools %}
+
+  {% capture url %}http://www.amazon.com/dp/{{ tool.asin }}/?tag={{ site.amazon_tracking_id }}{% endcapture %}
+
+  <div class="content-row">
+        <h2><a href="{{ url }}" target="_blank" title="{{ tool.title}}">{{ tool.title }}</a></h2>
+        <p>{{ tool.description }}</p>
+        <a title="Get {{ tool.title }}" class="pure-button" href="{{ url }}" target="_blank">Get it <i class="fa fa-caret-right"></i></a>
+  </div>
+
+{% endfor %}
 
 <div class="content-row">
   <h2>E-Mail Hacking Tool</h2>

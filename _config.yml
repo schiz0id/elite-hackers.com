@@ -43,3 +43,6 @@ collections:
   textfiles:
     output: false
     permalink: /resources/text-files/:title.txt
+  tools:
+    output: false
+    permalink: /resources/tools/:slug/
