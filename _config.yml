@@ -27,6 +27,10 @@ exclude: [provision.sh, Vagrantfile, assets/textfiles-md]
 # Build settings
 markdown: kramdown
 
+# This will require each of these plugins automatically.
+plugins:
+ - jekyll-sitemap
+
 collections:
   tutorials:
     output: true
