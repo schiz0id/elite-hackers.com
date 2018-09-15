@@ -2,12 +2,16 @@
 <script type="text/javascript" src="/node_modules/barba.js/dist/barba.min.js"></script>
 <script type="text/javascript">
   $(document).ready(function() {
-    Barba.Pjax.start();
-    Barba.Prefetch.init();
+    var barbaEnabled = false;
+    if(barbaEnabled) {
+      Barba.Pjax.start();
+      Barba.Prefetch.init();
 
-    Barba.Dispatcher.on('newPageReady', function() {
-      window.scrollTo(0, 0);
-    });
+      //Scroll to top of page after barba loads the new content.
+      Barba.Dispatcher.on('newPageReady', function() {
+        window.scrollTo(0, 0);
+      });
+    }
 
     // log barba events
     var barbaDebug = false;
