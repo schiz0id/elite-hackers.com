@@ -5,3 +5,5 @@ config.codekit
 bower_components
 .vagrant
 .DS_Store
+node_modules
+*.log
