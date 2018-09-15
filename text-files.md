@@ -17,7 +17,7 @@ summary: Ever since the beginning of hacking in the early 1990's, hackers were w
     <tbody>
     {% for textfile in textfiles %}
       <tr>
-        <td><a href="/assets/textfiles/{{ textfile.title }}">{{ textfile.title }}</a></td>
+        <td><a class="no-barba" href="/assets/textfiles/{{ textfile.title }}">{{ textfile.title }}</a></td>
         <td>{{ textfile.description }}</td>
       </tr>
     {% endfor %}
