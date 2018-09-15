@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/schiz0id/elite-hackers.com/issues"
   },
-  "homepage": "https://github.com/schiz0id/elite-hackers.com#readme"
+  "homepage": "https://github.com/schiz0id/elite-hackers.com#readme",
+  "devDependencies": {
+    "livereload": "^0.7.0"
+  }
 }
