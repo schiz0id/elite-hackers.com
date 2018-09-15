@@ -4,7 +4,9 @@
   "description": "The Elite Hackers Site (elite-hackers.com)",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "jekyll serve --watch",
+    "lr": "./node_modules/.bin/livereload"
   },
   "repository": {
     "type": "git",
