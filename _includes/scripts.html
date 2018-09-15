@@ -4,6 +4,49 @@
   $(document).ready(function() {
     Barba.Pjax.start();
     Barba.Prefetch.init();
+
+    // log barba events
+    var barbaDebug = false;
+    if(barbaDebug) {
+      Barba.Dispatcher.on('linkClicked', function(HTMLElement, MouseEvent) {
+        console.log('Event: linkClicked');
+
+        console.log('HTMLElement:');
+        console.log(HTMLElement);
+        console.log('MouseEvent:');
+        console.log(MouseEvent);
+      });
+
+      Barba.Dispatcher.on('initStateChange', function(currentStatus) {
+        console.log('Event: initStateChange');
+
+        console.log('currentStatus:');
+        console.log(currentStatus);
+      });
+
+      Barba.Dispatcher.on('newPageReady', function(currentStatus, prevStatus, HTMLElementContainer, newPageRawHTML) {
+        console.log('Event: newPageReady');
+
+        console.log('currentStatus:');
+        console.log(currentStatus);
+        console.log('prevStatus:');
+        console.log(prevStatus);
+        console.log('HTMLElementContainer:');
+        console.log(HTMLElementContainer);
+        console.log('newPageRawHTML:');
+        console.log(newPageRawHTML);
+
+      });
+
+      Barba.Dispatcher.on('transitionCompleted', function(currentStatus, prevStatus) {
+        console.log('Event: transitionCompleted');
+
+        console.log('currentStatus:');
+        console.log(currentStatus);
+        console.log('prevStatus:');
+        console.log(prevStatus);
+      });
+    }
   });
 </script>
 <script type="text/javascript" src="/js/book.js"></script>
