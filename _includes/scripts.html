@@ -5,6 +5,10 @@
     Barba.Pjax.start();
     Barba.Prefetch.init();
 
+    Barba.Dispatcher.on('newPageReady', function() {
+      window.scrollTo(0, 0);
+    });
+
     // log barba events
     var barbaDebug = false;
     if(barbaDebug) {
