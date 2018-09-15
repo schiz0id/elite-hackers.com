@@ -30,5 +30,8 @@
   "homepage": "https://github.com/schiz0id/elite-hackers.com#readme",
   "devDependencies": {
     "livereload": "^0.7.0"
+  },
+  "dependencies": {
+    "barba.js": "^1.0.0"
   }
 }
