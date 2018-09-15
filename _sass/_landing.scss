@@ -3,20 +3,22 @@
   width: 100%;
   border-top: 1px solid #040;
   border-bottom: 1px solid #040;
-  padding: $default-padding 0;
-  margin-bottom: $default-padding;
+  padding: 3em 0;
   h1 {
     padding: 0;
     margin: 0 0 $default-padding 0;
   }
+  text-align: center;
 }
 
-.welcome p {
-  margin: 0;
+.welcome {
+  p {
+    margin: 0;
+  }
 }
 
 .book {
-  padding-left: $default-padding;  
+  padding-left: $default-padding;
   .book-info {
     padding: 0 $default-padding;
     h3 {
@@ -25,11 +27,28 @@
   }
 }
 
+a.cta-link {
+  text-decoration: none;
+  display: block;
+  width: 100%;
+  * {
+    color: $green4;
+  }
+}
+a.cta-link:hover {
+}
+
 .cta {
-  padding: 0 $default-padding;
-  .pure-button {
+  text-align: center;
+  padding: 1em;
+
+  svg {
+    fill: $green1;
     width: 100%;
-    text-align: center;
+    height: 2em;
+  }
+
+  h2 a {
   }
 }
 
@@ -38,4 +57,9 @@
   background-color: $green3;
   border-radius: 0;
   font-size: $font-size-sm;
+  display: none;
+}
+
+#icons {
+  padding: 3em 0;
 }
