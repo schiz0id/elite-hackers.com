@@ -1,0 +1,29 @@
+{
+  "name": "elite-hackers.com",
+  "version": "3.0.0",
+  "description": "The Elite Hackers Site (elite-hackers.com)",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schiz0id/elite-hackers.com.git"
+  },
+  "keywords": [
+    "elite",
+    "hackers",
+    "hacking",
+    "security",
+    "schiz0id",
+    "cracking",
+    "phreaking",
+    "31337"
+  ],
+  "author": "schiz0id",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/schiz0id/elite-hackers.com/issues"
+  },
+  "homepage": "https://github.com/schiz0id/elite-hackers.com#readme"
+}
