@@ -8,13 +8,13 @@
     {% include header.html %}
     <div id="barba-wrapper">
         <div class="barba-container">
-          <article id="{{ page.layout }}-{{ page.slug }}" class="{{ page.layout }} ">
-            <div class="lead">
+          <article id="{{ page.layout }}-{{ page.slug }}" class="{{ page.layout }}">
+            <header>
               <div class="container">
                 <h1>{{ page.title }}</h1>
                 {{ page.summary }}
               </div>
-            </div>
+            </header>
             <div class="page-content">
               <div class="container">
                 {{ content }}

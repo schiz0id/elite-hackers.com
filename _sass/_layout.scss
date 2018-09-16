@@ -102,19 +102,20 @@ a {
 }
 
 // Lead/jumbotron on each page
-.lead {
-  background-color: rgba(0, 200, 0, .1);
-  width: 100%;
-  border-top: 1px solid #040;
-  border-bottom: 1px solid #040;
-  padding: 3em 0;
-  h1 {
-    padding: 0;
-    margin: 0 0 $default-padding 0;
+article {
+  header {
+    background-color: rgba(0, 200, 0, .1);
+    width: 100%;
+    border-top: 1px solid #040;
+    border-bottom: 1px solid #040;
+    padding: 3em 0;
+    h1 {
+      padding: 0;
+      margin: 0 0 $default-padding 0;
+    }
+    text-align: center;
   }
-  text-align: center;
 }
-
 
 .pure-button {
   color: #000;
