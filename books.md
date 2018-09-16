@@ -10,7 +10,7 @@ featured-weight: 3
 teaser: Find books on hacking web sites, phones, and wireless networks.
 
 menu-title: "Books"
-permalink: /books/
+slug: books
 category: learn
 category-title: Books
 category-weight: 2

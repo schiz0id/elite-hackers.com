@@ -9,7 +9,7 @@ featured-weight: 7
 teaser: Browse through hundreds of text files full of hacking information.
 
 hide-nav: true
-permalink: /text-files/
+slug: text-files
 category: learn
 category-title: Text Files
 category-weight: 4

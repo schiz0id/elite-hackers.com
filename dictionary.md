@@ -9,7 +9,7 @@ featured-weight: 5
 teaser: Familiarize yourself with must-know hacker vocabulary.
 
 hide-nav: true
-permalink: /dictionary/
+slug: dictionary
 category: resources
 category-title: Hacker's Dictionary
 summary: This dictionary is the first place to turn if you come across a hacking-related word you don't understand and want to learn exactly what it means.

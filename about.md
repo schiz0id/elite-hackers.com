@@ -3,7 +3,7 @@ layout: page
 weight: 6
 title: About This Site
 menu-title: About
-permalink: /about/
+slug: about
 summary: I was a newbie once, too. It's not easy. With my years of hacking experience, I simply wanted to create a friendly resource which would allow intermediate programmers (ones who know HTML) to learn how to hack. Years of work and research are compiled into this one resource, and I'm proud of that.
 ---
 ## The Making ##

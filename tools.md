@@ -10,7 +10,7 @@ featured-weight: 2
 teaser: Get a password cracker, keylogger, or anything else you need.
 
 menu-title: Tools
-permalink: /tools/
+slug: tools
 category: resources
 category-title: Tools
 category-weight: 3

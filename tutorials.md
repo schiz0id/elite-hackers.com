@@ -10,7 +10,7 @@ featured-weight: 1
 teaser: Read my articles and learn how to become an elite hacker!
 
 menu-title: Tutorials
-permalink: /tutorials/
+slug: tutorials
 category: learn
 category-title: Tutorials
 category-weight: 1
