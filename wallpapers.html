@@ -13,14 +13,13 @@ menu-title: Wallpapers
 slug: wallpapers
 summary: I added this section to assist you in setting up your hacker desktop. I've collected a HUGE variety of hacker wallpapers here. You might notice that a couple of them come from my favorite movie trilogy of all time.
 ---
-<div class="wallpapers">
-  <div class="pure-g">
-  {% for wallpaper in site.wallpapers %}
-    <div class="pure-u-1-1 pure-u-sm-1-1 pure-u-md-1-2 pure-u-lg-1-3 pure-u-xl-1-3">
-      <div class="wallpaper">
-        <a title="{{ wallpaper.title }}" href="//i.imgur.com/{{ wallpaper.imgur }}.jpg" data-featherlight="//i.imgur.com/{{ wallpaper.imgur }}.jpg"><img class="pure-img" alt="{{ wallpaper.title }}" src="//i.imgur.com/{{ wallpaper.imgur }}m.jpg"></a>
-      </div>
+<div class="row">
+{% for wallpaper in site.wallpapers %}
+  <div class="col-xs-1 col-sm-6 col-md-4 col-lg-4 col-xl-3">
+    <figure class="figure">
+      <a title="{{ wallpaper.title }}" href="//i.imgur.com/{{ wallpaper.imgur }}.jpg" data-featherlight="//i.imgur.com/{{ wallpaper.imgur }}.jpg"><img class="figure-img img-fluid rounded" alt="{{ wallpaper.title }}" src="//i.imgur.com/{{ wallpaper.imgur }}m.jpg"></a>
+      <figcaption class="figure-caption">{{ wallpaper.title }}</figcaption>
+    </figure>
   </div>
-  {% endfor %}
-  </div>
+{% endfor %}
 </div>

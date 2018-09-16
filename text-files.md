@@ -16,7 +16,7 @@ category-weight: 4
 summary: Ever since the beginning of hacking in the early 1990's, hackers were writing articles and documenting their findings. Because the internet wasn't invented yet and they didn't have blogs, they would write them using Microsoft Windows Notepad. When I read a hacking text file I find useful, I post it here.
 ---
 {% assign textfiles = site.textfiles %}
-<table class="pure-table">
+<table class="table table-striped">
   <thead>
     <tr>
       <th>File</th>

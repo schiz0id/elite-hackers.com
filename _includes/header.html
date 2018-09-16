@@ -1,56 +1,46 @@
-<header class="site-header container">
-  <div class="pure-g">
+<header class="container">
 
-    <div class="pure-u-1 pure-u-sm-1 pure-u-md-1-1 pure-u-lg-2-5 pure-u-xl-2-5">
-      <div class="nav-header">
-        <a href="/" class="brand">
-        {% include svg/glider.svg %}
-        <span>{{ site.title-header }}</span>
-        </a>
-      </div>
-    </div>
+      <nav class="navbar navbar-expand-lg navbar-light bg-light">
 
-    <div class="pure-u-1 pure-u-sm-1 pure-u-md-1-1 pure-u-lg-3-5 pure-u-xl-3-5">
+        <a class="navbar-brand" href="/">{% include svg/glider.svg %} {{ site.title-header }}</a>
+        
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
 
-      <nav>
-        <ul>
-          <li><a title="Learn how to Hack" href="/learn">Learn how to Hack</a></li>
-          <li><a title="Resources" href="/resources">Resources</a></li>
-          <li><a title="Wallpapers" href="/wallpapers">Wallpapers</a></li>
-          <li><a title="Frequently Asked Questions" href="/faq">FAQ</a></li>
-          <li><a title="About" href="/about">About</a></li>
-        </ul>
+            <li class="nav-item"><a class="nav-link" title="Learn how to Hack" href="/learn">Learn how to Hack</a></li>
+            <li class="nav-item"><a class="nav-link" title="Resources" href="/resources">Resources</a></li>
+            <li class="nav-item"><a class="nav-link" title="Wallpapers" href="/wallpapers">Wallpapers</a></li>
+            <li class="nav-item"><a class="nav-link" title="Frequently Asked Questions" href="/faq">FAQ</a></li>
+            <li class="nav-item"><a class="nav-link" title="About" href="/about">About</a></li>
+
+            <!-- Dropdown links. Parents not clickable -->
+            <!--
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="/learn" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Learn how to Hack</a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="/tutorials">Tutorials</a>
+                <a class="dropdown-item" href="/books">Books</a>
+                <a class="dropdown-item" href="/tools">Tools</a>
+                <a class="dropdown-item" href="/text-files">Text Files</a>
+              </div>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="/resources" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Resources</a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="/dictionary">Hacker's Dictionary</a>
+                <a class="dropdown-item" href="/links">Links</a>
+                <a class="dropdown-item" href="/irc">IRC</a>
+                <a class="dropdown-item" href="/hacker-database">Hacker Database</a>
+              </div>
+            </li>
+            -->
+
+          </ul>
+        </div>
       </nav>
 
-      <!--
-      <div class="pure-menu pure-menu-horizontal">
-        <ul class="pure-menu-list">
-          <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
-              <a href="/learn" id="menuLink1" class="pure-menu-link">Learn how to Hack</a>
-              <ul class="pure-menu-children">
-                  <li class="pure-menu-item"><a href="/tutorials" class="pure-menu-link">Tutorials</a></li>
-                  <li class="pure-menu-item"><a href="/books" class="pure-menu-link">Books</a></li>
-                  <li class="pure-menu-item"><a href="/tools" class="pure-menu-link">Tools</a></li>
-                  <li class="pure-menu-item"><a href="/text-files" class="pure-menu-link">Text Files</a></li>
-              </ul>
-          </li>
-          <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
-              <a href="/resources" id="menuLink1" class="pure-menu-link">Resources</a>
-              <ul class="pure-menu-children">
-                  <li class="pure-menu-item"><a href="/dictionary" class="pure-menu-link">Hacker's Dictionary</a></li>
-                  <li class="pure-menu-item"><a href="/links" class="pure-menu-link">Links</a></li>
-                  <li class="pure-menu-item"><a href="/irc" class="pure-menu-link">IRC</a></li>
-                  <li class="pure-menu-item"><a href="/hacker-database" class="pure-menu-link">Hacker Database</a></li>
-              </ul>
-          </li>
-          <li class="pure-menu-item"><a href="/wallpapers" class="pure-menu-link">Wallpapers</a></li>
-          <li class="pure-menu-item"><a href="/faq" class="pure-menu-link">FAQ</a></li>
-          <li class="pure-menu-item"><a href="/about" class="pure-menu-link">About</a></li>
-        </ul>
-      </div>
-      -->
-
-    </div>
-
-  </div>
 </header>

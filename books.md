@@ -18,5 +18,16 @@ summary: "<strong>Warning: The books listed here are hard to find in bookstores 
 ---
 {% assign books = site.books %}
 {% for book in books %}
-  {% include ad-amazon.html asin=book.asin title=book.title description=book.description img=book.imgur-sm %}
+
+  {% capture url %}http://www.amazon.com/dp/{{ book.asin }}/?tag={{ site.amazon_tracking_id }}{% endcapture %}
+
+  <div class="media">
+    <div class="mr-3"><a target="_blank" href="{{ url }}"><img src="{{ book.imgur-sm }}"></a></div>
+    <div class="media-body">
+    <h5 class="mt-0"><a href="{{ url }}" title="{{ book.title }}">{{ book.title }}</a></h5>
+      <p>{{ book.description }}</p>
+      <p><a class="btn btn-primary" title="Get {{ book.title }}" href="{{ url }}">Get it <i class="fa fa-caret-right"></i></a></p>
+    </div>
+  </div>
 {% endfor %}
+

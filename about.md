@@ -59,4 +59,4 @@ I would also like to thank my fellow hacker parter, RaT, the founder of <a href=
 
 You can contact me anytime through my Hotmail account. I never sleep, so I will probably get back to you really fast. A true hacker is always quick on his feet.
 
-<a class="pure-button" href="/contact" title="Contact me">Contact schiz0id <i class="fa fa-caret-right"></i></a>
+<a class="btn btn-primary" href="/contact" title="Contact schiz0id">Contact schiz0id <i class="fa fa-caret-right"></i></a>

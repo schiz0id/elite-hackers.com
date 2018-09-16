@@ -7,22 +7,31 @@
     {% include ga.html %}
     {% include header.html %}
     <div id="barba-wrapper">
-        <div class="barba-container">
-          <article id="{{ page.layout }}-{{ page.slug }}" class="{{ page.layout }}">
-            <header>
+      <div class="barba-container">
+
+        <main role="main" id="{{ page.layout }}-{{ page.slug }}" class="{{ page.layout }}">
+
+          <article>
+
+            <header class="jumbotron">
               <div class="container">
-                <h1>{{ page.title }}</h1>
-                {{ page.summary }}
+                <h1 class="display-4">{{ page.title }}</h1>
+                <p class="lead">{{ page.summary }}</p>
               </div>
             </header>
-            <div class="page-content">
-              <div class="container">
+  
+            <div class="container">
+              <div class="page-content">
                 {{ content }}
               </div>
             </div>
+
           </article>
-        </div>
-    </div>
+
+        </main>
+
+      </div> <!-- ./barba-container -->
+    </div> <!-- ./barba-wrapper -->
     {% include footer.html %}
     {% include scripts.html %}
   </body>
