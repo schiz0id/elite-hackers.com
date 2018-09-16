@@ -14,16 +14,11 @@
 
       <nav>
         <ul>
-          {% assign pages = site.pages | sort:"weight" %}
-          {% for page in pages %}
-            {% if page.hide-nav != true %}
-              {% if page.menu-title %}
-                <li><a title="{{ page.title }}" href="{{ page.url | prepend: site.baseurl }}">{{ page.menu-title }}</a></li>
-              {% elsif page.title %}
-                <li><a title="{{ page.title }}" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
-              {% endif %}
-            {% endif %}
-          {% endfor %}
+          <li><a title="Learn how to Hack" href="/learn">Learn how to Hack</a></li>
+          <li><a title="Resources" href="/resources">Resources</a></li>
+          <li><a title="Wallpapers" href="/wallpapers">Wallpapers</a></li>
+          <li><a title="Frequently Asked Questions" href="/faq">FAQ</a></li>
+          <li><a title="About" href="/about">About</a></li>
         </ul>
       </nav>
 
