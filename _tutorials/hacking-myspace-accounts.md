@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: page
 title: Hacking MySpace Accounts
 summary: This is a special tutorial that I wrote for those of you out there looking to hack into someone's MySpace account and ruin their e-life.
 weight: 3

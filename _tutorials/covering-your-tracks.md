@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: page
 title: Covering Your Tracks
 summary: The most important thing skilled hackers do is cover their tracks. This article talks about how to hack people and servers and vanish without a trace to avoid getting caught!
 published: 1

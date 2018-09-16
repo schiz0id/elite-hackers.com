@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: page
 weight: 3
 title: Key Logging
 summary: Key logging is an art of hacking where you have physical access to the computer and its hardware ports for the keyboard. By using undetectable hardware, you can record every key your victim presses on their keyboard, revealing their account passwords so you can hack them.

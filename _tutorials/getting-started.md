@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: page
 title: Getting Started
 summary: This tutorial will cover the basics of becoming a full-fledged hacker. This section is divided up into sub-sections which cover different topics. New hackers should read this first.
 weight: 1

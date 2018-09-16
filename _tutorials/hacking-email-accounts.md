@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: page
 title: Hacking E-Mail Accounts
 summary: Every one of your victims has an e-mail account. Gaining access to that is essential because you can get access to any other account they own. Learn how to hack e-mail accounts here.
 published: 0

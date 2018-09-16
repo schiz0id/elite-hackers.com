@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: page
 title: Hacking Facebook Accounts
 summary: Facebook has billions of users worldwide, and it's a great place to find your target or just go after random victims. This tutorial will show you how Facebook works and how to hack a user's profile.
 published: 0
