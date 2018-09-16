@@ -4,11 +4,15 @@ title: Learn how to Hack
 summary: Summary for LEARN category
 weight: 1
 ---
+<article id="category-learn" class="category">
 {% assign items = site.pages | where: 'category', 'learn' | sort:"category-weight" %}
 {% for item in items %}
   <div class="content-row">
-    <h2><a href="{{ item.url }}" title="{{ item.category-title }}">{{ item.category-title }}</a></h2>
+    <h2>
+      <div class="category-item-icon">{% include svg/{{ item.icon }} %}</div> <a href="{{ item.url }}" title="{{ item.category-title }}">{{ item.category-title }}</a>
+    </h2>
     <p>{{ item.summary }}</p>
     <a class="pure-button" title="Browse {{ item.title }}" href="{{ item.url }}">Browse {{ item.title }} <i class="fa fa-caret-right"></i></a>
   </div>
 {% endfor %}
+</article>

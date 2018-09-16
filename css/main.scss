@@ -11,3 +11,20 @@
 @import "header";
 @import "landing";
 @import "dictionary";
+
+// Categories
+#category-learn {
+}
+#category-resources {
+}
+
+.category {
+  .category-item-icon {
+    width: 100px;
+  }
+  .category-item-icon svg {
+    fill: lime;
+    max-width: 100px;
+    max-height: 100px;
+  }
+}
