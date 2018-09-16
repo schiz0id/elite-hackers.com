@@ -1,5 +1,5 @@
 ---
-layout: page-no-ad
+layout: page
 weight: 2
 title: Hacking Tools
 icon: tools.svg

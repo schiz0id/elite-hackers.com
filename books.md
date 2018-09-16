@@ -1,5 +1,5 @@
 ---
-layout: page-no-ad
+layout: page
 weight: 3
 title: "Hacking Books"
 icon: book.svg

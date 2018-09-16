@@ -1,5 +1,5 @@
 ---
-layout: page-no-ad
+layout: page
 title: Hacking Text Files
 icon: text-files.svg
 

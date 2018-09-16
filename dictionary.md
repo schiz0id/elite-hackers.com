@@ -1,5 +1,5 @@
 ---
-layout: page-no-ad
+layout: page
 title: Hacker's Dictionary
 icon: dictionary.svg
 

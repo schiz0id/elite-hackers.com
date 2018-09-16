@@ -1,5 +1,5 @@
 ---
-layout: page-no-ad
+layout: page
 weight: 1
 title: Hacking Tutorials
 icon: tutorials.svg
