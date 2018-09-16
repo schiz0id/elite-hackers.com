@@ -1,5 +1,6 @@
 <header class="site-header container">
   <div class="pure-g">
+
     <div class="pure-u-1 pure-u-sm-1 pure-u-md-1-1 pure-u-lg-2-5 pure-u-xl-2-5">
       <div class="nav-header">
         <a href="/" class="brand">
@@ -8,21 +9,53 @@
         </a>
       </div>
     </div>
+
     <div class="pure-u-1 pure-u-sm-1 pure-u-md-1-1 pure-u-lg-3-5 pure-u-xl-3-5">
+
       <nav>
         <ul>
-        {% assign pages = site.pages | sort:"weight" %}
-        {% for page in pages %}
-          {% if page.hide-nav != true %}
-            {% if page.menu-title %}
-              <li><a title="{{ page.title }}" href="{{ page.url | prepend: site.baseurl }}">{{ page.menu-title }}</a></li>
-            {% elsif page.title %}
-              <li><a title="{{ page.title }}" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+          {% assign pages = site.pages | sort:"weight" %}
+          {% for page in pages %}
+            {% if page.hide-nav != true %}
+              {% if page.menu-title %}
+                <li><a title="{{ page.title }}" href="{{ page.url | prepend: site.baseurl }}">{{ page.menu-title }}</a></li>
+              {% elsif page.title %}
+                <li><a title="{{ page.title }}" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+              {% endif %}
             {% endif %}
-          {% endif %}
-        {% endfor %}
+          {% endfor %}
         </ul>
       </nav>
+
+      <!--
+      <div class="pure-menu pure-menu-horizontal">
+        <ul class="pure-menu-list">
+          <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+              <a href="/learn" id="menuLink1" class="pure-menu-link">Learn how to Hack</a>
+              <ul class="pure-menu-children">
+                  <li class="pure-menu-item"><a href="/tutorials" class="pure-menu-link">Tutorials</a></li>
+                  <li class="pure-menu-item"><a href="/books" class="pure-menu-link">Books</a></li>
+                  <li class="pure-menu-item"><a href="/tools" class="pure-menu-link">Tools</a></li>
+                  <li class="pure-menu-item"><a href="/text-files" class="pure-menu-link">Text Files</a></li>
+              </ul>
+          </li>
+          <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+              <a href="/resources" id="menuLink1" class="pure-menu-link">Resources</a>
+              <ul class="pure-menu-children">
+                  <li class="pure-menu-item"><a href="/dictionary" class="pure-menu-link">Hacker's Dictionary</a></li>
+                  <li class="pure-menu-item"><a href="/links" class="pure-menu-link">Links</a></li>
+                  <li class="pure-menu-item"><a href="/irc" class="pure-menu-link">IRC</a></li>
+                  <li class="pure-menu-item"><a href="/hacker-database" class="pure-menu-link">Hacker Database</a></li>
+              </ul>
+          </li>
+          <li class="pure-menu-item"><a href="/wallpapers" class="pure-menu-link">Wallpapers</a></li>
+          <li class="pure-menu-item"><a href="/faq" class="pure-menu-link">FAQ</a></li>
+          <li class="pure-menu-item"><a href="/about" class="pure-menu-link">About</a></li>
+        </ul>
+      </div>
+      -->
+
     </div>
+
   </div>
 </header>
