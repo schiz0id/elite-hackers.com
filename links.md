@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-no-ad
 title: Hacking Links
 icon: links.svg
 

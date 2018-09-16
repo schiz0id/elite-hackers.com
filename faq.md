@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-no-ad
 title: Frequently Asked Questions
 icon: faq.svg
 

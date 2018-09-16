@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-no-ad
 title: Contact
 summary: <a href="/faq" title="Frequently Asked Questions">Read the FAQ</a> before e-mailing me. If you ask a question that's already answered there, I will hack you!!1
 published: 1

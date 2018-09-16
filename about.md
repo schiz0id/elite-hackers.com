@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-no-ad
 weight: 6
 title: About This Site
 menu-title: About
