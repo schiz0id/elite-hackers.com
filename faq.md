@@ -6,7 +6,7 @@ icon: faq.svg
 featured: true
 featured-title: FAQ
 featured-weight: 6
-featured-teaser: Find answers to the most frequently asked questions.
+teaser: Find answers to the most frequently asked questions.
 
 permalink: /faq/
 hide-nav: true

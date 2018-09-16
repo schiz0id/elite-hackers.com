@@ -6,7 +6,7 @@ icon: dictionary.svg
 featured: true
 featured-title: Dictionary
 featured-weight: 5
-featured-teaser: Familiarize yourself with must-know hacker vocabulary.
+teaser: Familiarize yourself with must-know hacker vocabulary.
 
 hide-nav: true
 permalink: /dictionary/

@@ -7,7 +7,7 @@ icon: tools.svg
 featured: true
 featured-title: Tools
 featured-weight: 2
-featured-teaser: Get a password cracker, keylogger, or anything else you need.
+teaser: Get a password cracker, keylogger, or anything else you need.
 
 menu-title: Tools
 permalink: /tools/
