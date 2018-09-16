@@ -3,6 +3,8 @@ layout: page
 title: Hacker's Dictionary
 hide-nav: true
 permalink: /dictionary/
+category: resources
+category-title: Hacker's Dictionary
 summary: This dictionary is the first place to turn if you come across a hacking-related word you don't understand and want to learn exactly what it means.
 ---
 {% assign terms = site.dictionary_terms | sort: 'title' %}

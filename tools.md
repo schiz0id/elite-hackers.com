@@ -4,6 +4,9 @@ weight: 2
 title: Hacking Tools
 menu-title: Tools
 permalink: /tools/
+category: learn
+category-title: Tools
+category-weight: 3
 summary: A skilled hacker always keeps a wide variety of tools so he can complete any task. Here you will find all the tools you will need to get the job done.
 ---
 {% assign tools = site.tools | sort:"weight" %}

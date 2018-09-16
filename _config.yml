@@ -32,6 +32,9 @@ plugins:
  - jekyll-sitemap
 
 collections:
+  categories:
+    output: true
+    permalink: /:slug/
   tutorials:
     output: true
     permalink: /tutorials/:slug/

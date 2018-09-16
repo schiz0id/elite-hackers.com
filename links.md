@@ -3,6 +3,8 @@ layout: page
 title: Hacking Links
 hide-nav: true
 permalink: /links/
+category: resources
+category-title: Links
 summary: I've been involved with the underground for a long time. Odds are if you were to drop the name schiz0id, people would immediately engage you in conversation. I keep a tight watch on what is going on in the hacker community, and these links are without a doubt the best resources online. There are many groups and people dedicated to hacking, keeping up with the information on these sites is crucial to the everyday life of a hacker. Only the best of the best are linked on my site.
 ---
 * <a target="_blank" title="SoldierX" href="http://www.soldierx.com">SoldierX</a>

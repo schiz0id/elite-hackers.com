@@ -4,6 +4,9 @@ weight: 1
 title: Hacking Tutorials
 menu-title: Tutorials
 permalink: /tutorials/
+category: learn
+category-title: Tutorials
+category-weight: 1
 summary: These tutorials are the best place to start. It almost took me two years to get to where I am and become known as an elite hacker. I wrote these tutorials so you can read them and become a hacker within months.
 ---
 <div class="pure-g">
