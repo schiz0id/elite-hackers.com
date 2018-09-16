@@ -1,6 +1,13 @@
 ---
 layout: page
 title: Hacking Text Files
+icon: text-files.svg
+
+featured: true
+featured-title: Text Files
+featured-weight: 7
+featured-teaser: Browse through hundreds of text files full of hacking information.
+
 hide-nav: true
 permalink: /text-files/
 category: learn

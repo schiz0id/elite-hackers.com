@@ -21,86 +21,21 @@ layout: landing
   <div class="container">
 
     <div class="pure-g">
+      {% assign featured = site.pages | where: 'featured', 'true' | sort:"featured-weight" %}
+      {% for page in featured %}
 
-      <div class="pure-u-1 pure-u-sm-1-4 pure-u-md-1-4 pure-u-lg-1-4 pure-u-xl-1-4">
-        <a class="cta-link" href="/tutorials" title="Hacking tutorials">
-          <div class="cta">
-            {% include svg/tutorials.svg%}
-            <h2>Tutorials</h2>
-            <p>Read my articles and learn how to become an elite hacker!</p>
-          </div> <!-- /.cta -->
-        </a>
-      </div>
+        <div class="pure-u-1 pure-u-sm-1-4 pure-u-md-1-4 pure-u-lg-1-4 pure-u-xl-1-4">
+          <a class="cta-link" href="{{ page.url }}" title="{{ page.title }}">
+            <div class="cta">
+              {% include svg/{{ page.icon }} %}
+              <h2>{{ page.featured-title }}</h2>
+              <p>{{ page.featured-teaser }}</p>
+            </div> <!-- /.cta -->
+          </a>
+        </div>
 
-      <div class="pure-u-1 pure-u-sm-1-4 pure-u-md-1-4 pure-u-lg-1-4 pure-u-xl-1-4">
-        <a class="cta-link" href="/tools" title="Hacking tools">
-          <div class="cta">
-            {% include svg/tools.svg%}
-            <h2>Hacking Tools</h2>
-            <p>Get a password cracker, keylogger, or anything else you need.</p>
-          </div> <!-- /.cta -->
-        </a>
-      </div>
+      {% endfor %}
 
-      <div class="pure-u-1 pure-u-sm-1-4 pure-u-md-1-4 pure-u-lg-1-4 pure-u-xl-1-4">
-        <a class="cta-link" href="/books" title="Hacking books">
-          <div class="cta">
-            {% include svg/book.svg%}
-            <h2>Books</h2>
-            <p>Find books on hacking web sites, phones, and wireless networks.</p>
-          </div> <!-- /.cta -->
-        </a>
-      </div>
-
-      <div class="pure-u-1 pure-u-sm-1-4 pure-u-md-1-4 pure-u-lg-1-4 pure-u-xl-1-4">
-        <a class="cta-link" href="/wallpapers" title="Hacker wallpapers">
-          <div class="cta">
-            {% include svg/wallpaper.svg%}
-            <h2>Wallpapers</h2>
-            <p>Complete your desktop with a hacking themed wallpaper!</p>
-          </div> <!-- /.cta -->
-        </a>
-      </div>
-
-      <div class="pure-u-1 pure-u-sm-1-4 pure-u-md-1-4 pure-u-lg-1-4 pure-u-xl-1-4">
-        <a class="cta-link" href="/dictionary" title="Hacker's Dictionary">
-          <div class="cta">
-            {% include svg/dictionary.svg%}
-            <h2>Dictionary</h2>
-            <p>Familiarize yourself with must-know hacker vocabulary.</p>
-          </div> <!-- /.cta -->
-        </a>
-      </div>
-
-      <div class="pure-u-1 pure-u-sm-1-4 pure-u-md-1-4 pure-u-lg-1-4 pure-u-xl-1-4">
-        <a class="cta-link" href="/faq" title="Frequently Asked Questions">
-          <div class="cta">
-            {% include svg/faq.svg%}
-            <h2>FAQ</h2>
-            <p>Find answers to the most frequently asked questions.</p>
-          </div> <!-- /.cta -->
-        </a>
-      </div>
-
-      <div class="pure-u-1 pure-u-sm-1-4 pure-u-md-1-4 pure-u-lg-1-4 pure-u-xl-1-4">
-        <a class="cta-link" href="/text-files" title="Hacking Text Files">
-          <div class="cta">
-            {% include svg/text-files.svg%}
-            <h2>Text Files</h2>
-            <p>Browse through hundreds of text files full of hacking information.</p>
-          </div> <!-- /.cta -->
-        </a>
-      </div>
-
-      <div class="pure-u-1 pure-u-sm-1-4 pure-u-md-1-4 pure-u-lg-1-4 pure-u-xl-1-4">
-        <a class="cta-link" href="/links" title="Hacking Links">
-          <div class="cta">
-            {% include svg/links.svg%}
-            <h2>Hacking Links</h2>
-            <p>Check out some of the other best hacking web sites on the internet.</p>
-          </div> <!-- /.cta -->
-        </a>
-      </div>
     </div> <!-- /.pure-g -->
   </div> <!-- /.container -->
   </div> <!-- /#icons -->

@@ -1,6 +1,13 @@
 ---
 layout: page
 title: Hacking Links
+icon: links.svg
+
+featured: true
+featured-title: Links
+featured-weight: 8
+featured-teaser: Check out some of the other best hacking web sites on the internet.
+
 hide-nav: true
 permalink: /links/
 category: resources

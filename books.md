@@ -2,6 +2,13 @@
 layout: page-no-ad
 weight: 3
 title: "Hacking Books"
+icon: book.svg
+
+featured: true
+featured-title: Books
+featured-weight: 3
+featured-teaser: Find books on hacking web sites, phones, and wireless networks.
+
 menu-title: "Books"
 permalink: /books/
 category: learn

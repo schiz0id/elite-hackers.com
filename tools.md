@@ -2,9 +2,16 @@
 layout: page
 weight: 2
 title: Hacking Tools
+icon: tools.svg
+
+featured: true
+featured-title: Tools
+featured-weight: 2
+featured-teaser: Get a password cracker, keylogger, or anything else you need.
+
 menu-title: Tools
 permalink: /tools/
-category: learn
+category: resources
 category-title: Tools
 category-weight: 3
 summary: A skilled hacker always keeps a wide variety of tools so he can complete any task. Here you will find all the tools you will need to get the job done.

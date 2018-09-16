@@ -2,6 +2,13 @@
 layout: page
 weight: 1
 title: Hacking Tutorials
+icon: tutorials.svg
+
+featured: true
+featured-title: Tutorials
+featured-weight: 1
+featured-teaser: Read my articles and learn how to become an elite hacker!
+
 menu-title: Tutorials
 permalink: /tutorials/
 category: learn
