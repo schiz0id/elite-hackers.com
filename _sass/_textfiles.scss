@@ -1,0 +1,18 @@
+// Text files
+.pure-table {
+  border: 0;
+  th, td {
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px dotted #030;
+    background-color: inherit;
+  }
+  width: 100%;
+  thead {
+    background-color: inherit;
+    color: $green1;
+  }
+  td {
+    background-color: inherit;
+  }
+}
