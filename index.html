@@ -4,27 +4,24 @@ title: Welcome, future hackers!
 summary: Welcome to the main page of The Elite Hackers Site. My name is schiz0id, and I have been hacking since I was 13, well over 2 years. People know me as one of the elite, one who knows what they're doing. Since hacking is a true art that isn't learned overnight (more like months), I decided to help those who are destined to master the art of hacking. I will bestow upon all of you information that will guide you along your way, all the way to the end.
 ---
 <div class="container">
-  <div id="icons">
 
-    <div class="pure-g">
-      {% assign featured = site.pages | where: 'featured', 'true' | sort:"featured-weight" %}
-      {% for page in featured %}
+  <div class="pure-g">
+    {% assign featured = site.pages | where: 'featured', 'true' | sort:"featured-weight" %}
+    {% for page in featured %}
 
-        <div class="pure-u-1 pure-u-sm-1-4 pure-u-md-1-4 pure-u-lg-1-4 pure-u-xl-1-4">
-          <a class="cta-link" href="{{ page.url }}" title="{{ page.title }}">
-            <div class="cta">
-              {% include svg/{{ page.icon }} %}
-              <h2>{{ page.featured-title }}</h2>
-              <p>{{ page.teaser }}</p>
-            </div> <!-- /.cta -->
-          </a>
-        </div>
+      <div class="pure-u-1 pure-u-sm-1-4 pure-u-md-1-4 pure-u-lg-1-4 pure-u-xl-1-4">
+        <a class="cta-link" href="{{ page.url }}" title="{{ page.title }}">
+          <div class="cta">
+            {% include svg/{{ page.icon }} %}
+            <h2>{{ page.featured-title }}</h2>
+            <p>{{ page.teaser }}</p>
+          </div> <!-- /.cta -->
+        </a>
+      </div>
 
-      {% endfor %}
+    {% endfor %}
 
-    </div> <!-- /.pure-g -->
-  </div> <!-- /#icons -->
-
+  </div> <!-- /.pure-g -->
 
   <div class="pure-g">
     <div class="pure-u-1 pure-u-sm-1-1 pure-u-md-1-1 pure-u-lg-1-1 pure-u-xl-1-1">
