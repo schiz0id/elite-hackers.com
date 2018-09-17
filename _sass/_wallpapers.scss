@@ -1,2 +1,16 @@
 main#page-wallpapers {
+  figure {
+
+    //Center figure
+    //display: block;
+    //margin: 0 auto;
+
+    text-align: center;
+    img {
+      border: 1px solid #040;
+    }
+    figcaption {
+      color: $green4;
+    }
+  }
 }
