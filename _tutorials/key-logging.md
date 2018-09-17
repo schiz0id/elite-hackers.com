@@ -69,4 +69,4 @@ Keylogging can be tricky if you don't know which port to look out for. If you re
 The cheapest place to find Keyllama USB keyloggers (they are the best) is on <a target="_blank" href="http://www.amazon.com/dp/B004ZGXU48/?ref={{ site.amazon_tracking_id }}" title="Amazon">Amazon</a>. The Keyllama stores 4 MegaBytes of keystrokes, which is <strong>2000 pages of data</strong>.
 
 
-<a class="pure-button" target="_blank" href="http://www.amazon.com/dp/B004ZGXU48/?ref={{ site.amazon_tracking_id }}" title="Get your keylogger">Get your keylogger <i class="fa fa-caret-right"></i></a>
+<a class="btn btn-primary" target="_blank" href="http://www.amazon.com/dp/B004ZGXU48/?ref={{ site.amazon_tracking_id }}" title="Get your keylogger">Get your keylogger <i class="fa fa-caret-right"></i></a>
