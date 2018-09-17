@@ -1,7 +1,5 @@
 body {
   background-image: url("/img/bg/1920x1400.jpg"); // Todo: Responsive sizes
-  background-color: #000;
-  color: $green4;
   font-family: "Lekton", serif;
 }
 
@@ -14,10 +12,6 @@ body {
   border-bottom-width: 1px;
 
   border-radius: 0;
-}
-
-a, a:hover {
-  color: $green1;
 }
 
 .btn-primary, .btn-primary:hover {
