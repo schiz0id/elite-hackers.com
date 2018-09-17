@@ -1,75 +1,17 @@
-header.site-header {
-  .nav-header {
-    img {
-      vertical-align: middle;
-      margin-right: $default-padding;
-    }
-  }
+header[role="banner"] {
 
-  a.brand {
-    font-family: $header-font;
-    font-size: $font-size-xl;
-    color: $header-text-color;
-    letter-spacing: 2px;
-    text-decoration: none;
-    text-transform: uppercase;
-
-    // Glider
-    svg {
-      width: 24px!important;
-      height: 24px!important;
-      path {
-        stroke: lime !important;
-      }
-      circle {
-        fill: lime;
-      }
+  //Glider
+  svg {
+    display: none;
+    /*
+    width: 24px!important;
+    height: 24px!important;
+    path {
+      stroke: lime !important;
     }
-  }
-  a {
-    color: $green2;
-    font-size: $font-size-sm;
-  }
-  a:hover {
-    background: none;
-    color: $green1;
-  }
-
-  nav {
-    font-size: $font-size-lg;
-    ul {
-      display: flex;
-      flex-direction: horizontal;
-      flex-wrap: wrap;
-      list-style: none;
-      justify-content: flex-end;
-      margin: 0;
-      li {
-        margin: 0px 10px;
-        a {
-          text-decoration: none;
-          vertical-align: middle;
-        }
-      }
+    circle {
+      fill: lime;
     }
-  }
-}
-@media(max-width: 767px) {
-  header.site-header {
-    .nav-header {
-      text-align: center;
-      margin-bottom: $default-padding;
-      img {
-        display: block;
-        text-align: center;
-        margin: 0 auto;
-      }
-    }
-    nav {
-      ul {
-        display: block;
-        text-align: center;
-      }
-    }
+    */
   }
 }
