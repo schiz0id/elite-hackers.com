@@ -23,7 +23,7 @@ summary: A skilled hacker always keeps a wide variety of tools so he can complet
   {% capture url %}http://www.amazon.com/dp/{{ tool.asin }}/?tag={{ site.amazon_tracking_id }}{% endcapture %}
 
   <div class="media">
-    <div class="mr-3"><img src="//placehold.it/100?text=SVG"></div>
+    <div class="mr-3">{% include placeholder-icon.html %}</div>
     <div class="media-body">
     <h5 class="mt-0"><a href="{{ url }}" title="{{ tool.title }}">{{ tool.title }}</a></h5>
       <p>{{ tool.description }}</p>
@@ -34,7 +34,7 @@ summary: A skilled hacker always keeps a wide variety of tools so he can complet
 {% endfor %}
 
 <div class="media">
-  <div class="mr-3"><img src="//placehold.it/100?text=SVG"></div>
+  <div class="mr-3">{% include placeholder-icon.html %}</div>
   <div class="media-body">
   <h5 class="mt-0">E-Mail Hacking Tool</h5>
     <p>You can completely own your victim once you have access to their e-mail account. This tool will hack their e-mail account so you can read their e-mail, pretend to be them, and even get access to their password reset e-mails for social media or dating web site accounts.</p>
@@ -43,7 +43,7 @@ summary: A skilled hacker always keeps a wide variety of tools so he can complet
 </div>
 
 <div class="media">
-  <div class="mr-3"><img src="//placehold.it/100?text=SVG"></div>
+  <div class="mr-3">{% include placeholder-icon.html %}</div>
   <div class="media-body">
   <h5 class="mt-0">Facebook Hacking Tool</h5>
     <p>Facebook has billions of users, and your victim is probably one of them. Use this tool to hack into their Facebook account.</p>
