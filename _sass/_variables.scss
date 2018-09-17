@@ -1,31 +1,12 @@
-//Standard padding used between elements throughout the layout
-$default-padding: 20px;
-
-//Font sizes
-$font-size-base: 1em;
-
-$font-size-xs: 80%;
-$font-size-sm: 90%;
-$font-size-md: $font-size-base;
-$font-size-lg: 120%;
-$font-size-xl: 150%;
-
 //Text colors
 $green1: #0F0;
 $green2: #07C102;
-$green3: #0C0; //used for buttons
-$green4: #a0fba0; //used for links
+$green3: #0C0;
+$green4: #a0fba0;
 
 //Headers
 $header-font: 'audimat_monolight';
 $header-font-weight: 100;
-$header-text-color: $green1;
-
-//Header links
-$header-link-text-color: $green1;
 
 //Standard body text
 $standard-text-font: 'Lekton', serif;
-$standard-text-color: $green2;
-$standard-text-line-height: 1.3;
-$standard-font-size: 16px;
