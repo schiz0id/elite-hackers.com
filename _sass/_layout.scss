@@ -1,89 +1,6 @@
-
-//@media(max-width: 1024px) {
-@media(min-width: 768px) {
-  body {
-    background-image: url('/img/bg/1024x768.jpg');
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-  }
-}
-
-@media(min-width: 1025px) {
-  body {
-    background-image: url('/img/bg/1920x1400.jpg');
-  }
-}
-
 body {
   background-color: #000;
 }
-
-/* Global font, text color, and formatting */
-body,
-.pure-g [class *= "pure-u"],
-.pure-g-r [class *= "pure-u"] {
-  /* Add your font in here, whether it's a custom font or a normal font */
-  font-family: $standard-text-font;
-  color: $standard-text-color;
-  line-height: $standard-text-line-height;
-  font-size: $font-size-md;
-}
-
-.container {
-  max-width: 960px;
-  margin: 0 auto;
-}
-
-header.site-header, footer.site-footer {
-  padding: $default-padding 0;
-}
-
-@media(max-width: 1024px) {
-  //Mobile padding
-  header.site-header,
-  footer.site-footer,
-  .container {
-    padding: $default-padding;
-  }
-}
-
-
-footer.site-footer {
-  font-size: $font-size-xs;
-}
-
-//Headings
-h1, h2, h3, h4, h5, h6 {
-  font-family: $header-font;
-  font-weight: $header-font-weight;
-  color: $header-text-color;
-  text-transform: uppercase;
-
-  a {
-    color: $header-link-text-color;
-    text-decoration: none;
-  }
-}
-
-//Lists
-ul {
-  list-style-type: square;
-  list-style-position: inside;
-  padding: 0;
-  li {
-    margin-bottom: 15px;
-  }
-}
-
-a {
-  color: $green4;
-  //text-decoration: none;
-}
-
-.content-row {
-  margin-bottom: 2em;
-}
-
 
 //Background on selected text
 ::selection {
@@ -93,28 +10,4 @@ a {
 ::-moz-selection {
   background: $green1; /* Gecko Browsers */
   color: #000;
-}
-
-// Lead/jumbotron on each page
-article {
-  header {
-    background-color: rgba(0, 200, 0, .1);
-    width: 100%;
-    border-top: 1px solid #040;
-    border-bottom: 1px solid #040;
-    padding: 3em 0;
-    margin-bottom: 1em;
-    h1 {
-      padding: 0;
-      margin: 0 0 $default-padding 0;
-    }
-    text-align: center;
-  }
-}
-
-.pure-button {
-  color: #000;
-  background-color: $green3;
-  border-radius: 0;
-  font-size: $font-size-sm;
 }
