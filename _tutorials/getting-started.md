@@ -104,8 +104,8 @@ First, let's start with the default Windows XP desktop and list the pros and con
   <img class="img-fluid" src="//i.imgur.com/zeWxB11l.png" alt="Default Windows XP desktop">
 </a>
 
-<div class="pure-g">
-  <div class="pure-u-1 pure-u-md-1-2">
+<div class="row">
+  <div class="col-sm-6">
     <h3>Pros:</h3>
     <ul>
       <li>Stable</li>
@@ -115,7 +115,7 @@ First, let's start with the default Windows XP desktop and list the pros and con
     </ul>
   </div>
 
-  <div class="pure-u-1 pure-u-md-1-2">
+  <div class="col-sm-6">
     <h3>Cons:</h3>
     <ul>
       <li>Kinda newbie looking</li>
@@ -132,8 +132,8 @@ This is a great start for right out of the box. But there are still a few things
   <img class="img-fluid" src="//i.imgur.com/PV983KKl.jpg" alt="Pimped out Windows XP desktop">
 </a>
 
-<div class="pure-g">
-  <div class="pure-u-1 pure-u-md-1-2">
+<div class="row">
+  <div class="col-sm-6">
     <h3>Pros:</h3>
     <ul>
       <li>Clean</li>
@@ -149,7 +149,7 @@ This is a great start for right out of the box. But there are still a few things
     </ul>
   </div>
 
-  <div class="pure-u-1 pure-u-md-1-2">
+  <div class="col-sm-6">
     <h3>Cons:</h3>
     <ul>
       <li>Still needs Trillian</li>
@@ -164,8 +164,8 @@ As you can see, this hacker is well prepared. They have everything but quick acc
   <img class="img-fluid" src="//i.imgur.com/fTrVJpVl.jpg " alt="Elite Windows XP desktop">
 </a>
 
-<div class="pure-g">
-  <div class="pure-u-1 pure-u-md-1-2">
+<div class="row">
+  <div class="col-sm-6">
     <h3>Pros:</h3>
     <ul>
       <li>Windows Vista!!</li>
@@ -175,7 +175,7 @@ As you can see, this hacker is well prepared. They have everything but quick acc
     </ul>
   </div>
 
-  <div class="pure-u-1 pure-u-md-1-2">
+  <div class="col-sm-6">
     <h3>Cons:</h3>
     <ul>
       <li>Not in English</li>
