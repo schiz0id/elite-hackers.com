@@ -9,6 +9,8 @@ featured-title: Tutorials
 featured-weight: 1
 teaser: Read my articles and learn how to become an elite hacker!
 
+type: article-list
+
 menu-title: Tutorials
 slug: tutorials
 category: learn

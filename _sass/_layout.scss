@@ -38,8 +38,9 @@ h1, h2, h3, h4, h5, h6 {
 
 
 
-/* Tutorials Page */
-#page-tutorials {
+// Article list. Pages that have a front matter variable `type` set to 'article-list'
+// Tutorials, resources, books, etc...
+article.article-list {
   article {
     margin-bottom: 2em;
   }
