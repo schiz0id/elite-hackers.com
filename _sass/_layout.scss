@@ -45,3 +45,10 @@ article.article-list {
     margin-bottom: 2em;
   }
 }
+
+// Definition list. Pages that have dl/dt/dd
+article.definition-list {
+  dl dd {
+    margin-bottom: 2em;
+  }
+}

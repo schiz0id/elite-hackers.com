@@ -9,6 +9,8 @@ featured-title: FAQ
 featured-weight: 6
 teaser: Find answers to the most frequently asked questions.
 
+type: definition-list
+
 hide-nav: true
 summary: I constantly get e-mails from people with a ton of good questions. This page contains the questions I get asked the most. If you have a question, look here first, because if you e-mail me a question that is already answered here, <strong>you will be hacked!</strong>
 ---

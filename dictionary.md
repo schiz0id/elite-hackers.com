@@ -8,6 +8,8 @@ featured-title: Dictionary
 featured-weight: 5
 teaser: Familiarize yourself with must-know hacker vocabulary.
 
+type: definition-list
+
 hide-nav: true
 slug: dictionary
 category: resources
