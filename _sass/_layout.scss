@@ -1,10 +1,15 @@
 body {
   background-image: url("/img/bg/1920x1400.jpg"); // Todo: Responsive sizes
-  font-family: "Lekton", serif;
+  font-family: $font1;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  text-transform: uppercase;
+  color: $green1;
+  font-family: $font2;
 }
 
 .jumbotron {
-  background-color: rgba(0, 200, 0, .1);
   border-width: 0;
   border-color: #040;
   border-style: solid;
