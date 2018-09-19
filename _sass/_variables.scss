@@ -14,6 +14,10 @@ $link-color: $green1;
 $link-hover-color: $green4;
 $link-hover-decoration: none;
 
+$navbar-dark-color:                 $green1 !default;
+$navbar-dark-hover-color:           rgba($green1, .75) !default;
+$navbar-dark-active-color:          $green1 !default;
+$navbar-dark-disabled-color:        rgba($green1, .25) !default;
 
 
 //Headers
