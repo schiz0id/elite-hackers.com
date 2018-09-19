@@ -20,3 +20,14 @@ header[role="banner"] {
 .navbar-dark.bg-dark {
   background-color: transparent !important;
 }
+
+
+// Align nav to right. TODO: Check BS4 docs to see if there is a better way
+.navbar-nav {
+  margin-right: 0 !important;
+  margin-left: auto;
+}
+//.mr-auto, .mx-auto {
+  //margin-right: 0 !important;
+  //margin-left: auto;
+//}
