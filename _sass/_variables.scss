@@ -14,7 +14,7 @@ $jumbotron-bg: rgba(0, 200, 0, .1);
 // Bootstrap variables
 // node_modules/bootstrap/scss/_variables.scss
 $body-bg: #030;
-$body-color: $green4;
+$body-color: $green2;
 $link-color: $green1;
 $link-hover-color: $green4;
 $link-hover-decoration: none;
@@ -31,3 +31,12 @@ $header-font-weight: 100;
 
 //Standard body text
 $standard-text-font: 'Lekton', serif;
+
+
+$font-size-base: 1rem !default;
+$h1-font-size: $font-size-base * 2 !default;
+$h2-font-size: $font-size-base * 1.75 !default;
+$h3-font-size: $font-size-base * 1.5 !default;
+$h4-font-size: $font-size-base * 1.25 !default;
+$h5-font-size: $font-size-base * 1.15 !default;
+$h6-font-size: $font-size-base !default;
