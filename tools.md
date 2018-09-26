@@ -23,16 +23,8 @@ summary: A skilled hacker always keeps a wide variety of tools so he can complet
 {% for tool in tools %}
 
   {% capture url %}http://www.amazon.com/dp/{{ tool.asin }}/?tag={{ site.amazon_tracking_id }}{% endcapture %}
-  <article>
-    <div class="media">
-      <div class="mr-3">{% include placeholder-icon.html %}</div>
-      <div class="media-body">
-      <h2 class="mt-0"><a href="{{ url }}" title="{{ tool.title }}">{{ tool.title }}</a></h2>
-        <p>{{ tool.description }}</p>
-        <p><a class="btn btn-primary" title="Get {{ tool.title }}" href="{{ url }}">Get it <i class="fa fa-caret-right"></i></a></p>
-      </div>
-    </div>
-  </article>
+
+  {% include media-list-item.html url=url title=tool.title description=tool.description %}
 
 {% endfor %}
 
