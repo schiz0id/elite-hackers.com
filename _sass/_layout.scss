@@ -11,7 +11,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .jumbotron {
   border-width: 0;
-  border-color: #040;
+  border-color: darken($green1, 35);
   border-style: solid;
   border-top-width: 1px;
   border-bottom-width: 1px;
@@ -20,8 +20,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .btn-primary, .btn-primary:hover {
-  background-color: #0C0;
-  color: #000;
+  background-color: $green3;
+  color: $black;
   border: none;
   border-radius: 0;
 }
@@ -29,11 +29,11 @@ h1, h2, h3, h4, h5, h6 {
 //Background on selected text
 ::selection {
   background: $green1; /* WebKit/Blink Browsers */
-  color: #000;
+  color: $black;
 }
 ::-moz-selection {
   background: $green1; /* Gecko Browsers */
-  color: #000;
+  color: $black;
 }
 
 
