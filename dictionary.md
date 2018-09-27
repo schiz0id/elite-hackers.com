@@ -20,6 +20,6 @@ summary: This dictionary is the first place to turn if you come across a hacking
 <dl>
 {% for term in terms %}
   <dt>{{ term.title }}</dt>
-  <dd>{{ term.content }}</dd>
+  <dd class="mb-4">{{ term.content }}</dd>
 {% endfor %}
 </dl>

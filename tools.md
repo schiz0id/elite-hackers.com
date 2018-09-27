@@ -28,7 +28,7 @@ summary: A skilled hacker always keeps a wide variety of tools so he can complet
 
 {% endfor %}
 
-<article>
+<article class="mb-5">
   <div class="media">
     <div class="mr-3">{% include placeholder-icon.html %}</div>
     <div class="media-body">
@@ -39,7 +39,7 @@ summary: A skilled hacker always keeps a wide variety of tools so he can complet
   </div>
 </article>
 
-<article>
+<article class="mb-5">
   <div class="media">
     <div class="mr-3">{% include placeholder-icon.html %}</div>
     <div class="media-body">

@@ -37,22 +37,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-
-// Article list. Pages that have a front matter variable `type` set to 'article-list'
-// Tutorials, resources, books, etc...
-article.article-list {
-  article {
-    margin-bottom: 2em;
-  }
-}
-
-// Definition list. Pages that have dl/dt/dd
-article.definition-list {
-  dl dd {
-    margin-bottom: 2em;
-  }
-}
-
 .placeholder-icon {
   width: 100px;
 }
