@@ -11,40 +11,22 @@ I wrote this page entirely in Windows Notepad, none of that uber-lame, pretty Fr
 
 ## About Schiz0id ##
 
-### General Information ###
-
-<table>
-  <tr>
-    <td>Real Name:</td>
-    <td>Unknown</td>
-  </tr>
-  <tr>
-    <td>Hometown:</td>
-    <td>Unknown</td>
-  </tr>
-  <tr>
-    <td>Age:</td>
-    <td>15.5</td>
-  </tr>
-  <tr>
-    <td>Favorite Bands:</td>
-    <td>Linkin Park, Three Days Grace, Nickelback, and Hoobastank.</td>
-  </tr>
-  <tr>
-    <td>Favorite Movies:</td>
-    <td>The Matrix, The Matrix Reloaded, The Matrix Revolutions. Real hacking movies.</td>
-  </tr>
-  <tr>
-    <td>Languages:</td>
-    <td>HTML 4.0, JavaScript/Java, CSS, QBasic, Visual Basic, Net+</td>
-  </tr>
-  <tr>
-    <td>OS (Operating System):</td>
-    <td>Windows Vista</td>
-  </tr>
-  <tr>
-  </tr>
-</table>
+<dl class="row">
+    <dt class="col-sm-3">Real Name:</dt>
+    <dd class="col-sm-9">Unknown</dd>
+    <dt class="col-sm-3">Hometown:</dt>
+    <dd class="col-sm-9">Unknown</dd>
+    <dt class="col-sm-3">Age:</dt>
+    <dd class="col-sm-9">15.5</dd>
+    <dt class="col-sm-3">Favorite Bands:</dt>
+    <dd class="col-sm-9">Linkin Park, Three Days Grace, Nickelback, and Hoobastank.</dd>
+    <dt class="col-sm-3">Favorite Movies:</dt>
+    <dd class="col-sm-9">The Matrix, The Matrix Reloaded, The Matrix Revolutions. Real hacking movies.</dd>
+    <dt class="col-sm-3">Programming Languages:</dt>
+    <dd class="col-sm-9">HTML 4.0, JavaScript/Java, CSS, QBasic, Visual Basic, Net+</dd>
+    <dt class="col-sm-3">OS (Operating System):</dt>
+    <dd class="col-sm-9">Windows Vista</dd>
+</dl>
 
 ### Schiz0id's Past ###
 While growing up, I've always been into technology. I began playing video games a lot. Then one day in middle school, I was grounded from my xBox for failing my PE class. That's when I decided to learn how to hack. I spent countless hours learning how, then one day I hacked into my school's mainframe and changed my grade. I've been a 4.0 student since. Even in history.
