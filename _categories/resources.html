@@ -7,5 +7,15 @@ type: article-list
 ---
 {% assign items = site.pages | where: 'category', 'resources' | sort:"category-weight" %}
 {% for item in items %}
-  {% include media-list-item.html url=item.url title=item.category-title description=item.summary %}
+<article class="mb-5">
+  <div class="media">
+    <div class="icon mr-5">{% include svg/{{ item.icon }} %}</div>
+    <div class="media-body">
+      <h2 class="mt-0"><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></h2>
+      <p>{{ item.summary }}</p>
+      <p><a class="btn btn-primary" title="Browse {{ item.title }}" href="{{ item.url }}">Browse {{ item.title }} <i class="fa fa-caret-right"></i></a></p>
+    </div>
+  </div>
+</article>
 {% endfor %}
+

@@ -40,3 +40,27 @@ h1, h2, h3, h4, h5, h6 {
 .placeholder-icon {
   width: 100px;
 }
+
+svg {
+  path, rect, circle {
+    fill: rgba($green1, .7);
+  }
+}
+
+
+.article-list {
+  .icon {
+    width: 50px;
+  }
+  .media svg {
+    width: 100%;
+  }
+}
+
+#page-home .cta-link {
+  text-align: center;
+  svg {
+    max-width: 50px;
+    margin: 0 auto;
+  }
+}

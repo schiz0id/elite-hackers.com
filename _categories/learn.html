@@ -9,9 +9,9 @@ type: article-list
 {% for item in items %}
 <article class="mb-5">
   <div class="media">
-    <div class="mr-3">{% include placeholder-icon.html %}</div>
+    <div class="icon mr-4">{% include svg/{{ item.icon }} %}</div>
     <div class="media-body">
-    <h2 class="mt-0"><a href="{{ item.url }}" title="{{ item.category-title }}">{{ item.category-title }}</a></h2>
+      <h2 class="mt-0"><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></h2>
       <p>{{ item.summary }}</p>
       <p><a class="btn btn-primary" title="Browse {{ item.title }}" href="{{ item.url }}">Browse {{ item.title }} <i class="fa fa-caret-right"></i></a></p>
     </div>

@@ -10,8 +10,8 @@ slug: home
 
     <div class="col-xs-1 col-sm-6 col-md-4 col-lg-4 col-xl-3">
       <a class="cta-link" href="{{ page.url }}" title="{{ page.title }}">
-        <div class="card">
-          <img class="card-img-top" src="//via.placeholder.com/300/000000/00ff00?text=Icon" alt="{{ page.title }}">
+        <div class="card mb-5">
+          {% include svg/{{ page.icon }} %}
           <div class="card-body">
             <h2 class="card-title">{{ page.title }}</h2>
             <p class="card-text">{{ page.teaser }}</p>
