@@ -2,7 +2,7 @@
 layout: page
 weight: 3
 title: "Hacking Books"
-icon: book.svg
+icon: books.svg
 
 featured: true
 featured-title: Books
